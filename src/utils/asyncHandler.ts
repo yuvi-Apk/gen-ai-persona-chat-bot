@@ -1,18 +1,22 @@
 // src/utils/asyncHandler.ts
-import { NextRequest, NextResponse } from "next/server";
+import { NextRequest } from "next/server";
 import { errorHandler } from "./errorHandler";
+
+type RouteContext = {
+  params: Promise<Record<string, string | string[]>>;
+};
 
 type RouteHandler = (
   req: NextRequest,
-  context?: { params: Record<string, string> }
-) => Promise<NextResponse>;
+  context: RouteContext
+) => Promise<Response>;
 
 export const asyncHandler =
   (handler: RouteHandler) =>
-    async (req: NextRequest, context?: { params: Record<string, string> }) => {
+    async (req: NextRequest, context: RouteContext) => {
       try {
         return await handler(req, context);
       } catch (err) {
-        return errorHandler(err); // ← your errorHandler, adapted below
+        return errorHandler(err);
       }
     };
