@@ -1,5 +1,9 @@
+import { ChatApp } from "@/components/chat-ui/chat-app";
+
 export default function Home() {
-  return <div>
-    this is the home page
-  </div>;
+  return (
+    <main className="h-dvh w-full bg-background">
+      <ChatApp />
+    </main>
+  );
 }
