@@ -34,10 +34,12 @@ export function MessageBubble({ message }: { message: Message }) {
       >
         <div
           className={[
-            "rounded-2xl px-4 py-2.5",
+            // WhatsApp-style bubble: soft rounding everywhere except the
+            // corner nearest the sender, which is squared off to a point.
+            "rounded-lg px-3 py-2",
             isMentor
-              ? "rounded-tl-sm bg-bubble-mentor text-foreground"
-              : "rounded-tr-sm bg-bubble-user text-bubble-user-foreground",
+              ? "rounded-tl-none bg-bubble-mentor text-foreground"
+              : "rounded-tr-none bg-bubble-user text-bubble-user-foreground",
           ].join(" ")}
         >
           {message.blocks.map((block, i) =>
@@ -61,7 +63,7 @@ export function MessageBubble({ message }: { message: Message }) {
               "mt-1.5 text-[11px]",
               isMentor
                 ? "text-muted-foreground"
-                : "text-bubble-user-foreground/70",
+                : "text-bubble-user-foreground/70 text-right",
             ].join(" ")}
           >
             {message.time}

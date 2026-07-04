@@ -4,13 +4,13 @@ import { useState, type FormEvent } from "react";
 
 type ChatComposerProps = {
   mentorName: string;
-  onSend: (text: string) => void;
+  onSendAction: (text: string) => void;
   disabled?: boolean;
 };
 
 export function ChatComposer({
   mentorName,
-  onSend,
+  onSendAction,
   disabled,
 }: ChatComposerProps) {
   const [value, setValue] = useState("");
@@ -19,7 +19,7 @@ export function ChatComposer({
     e.preventDefault();
     const trimmed = value.trim();
     if (!trimmed) return;
-    onSend(trimmed);
+    onSendAction(trimmed);
     setValue("");
   }
 
@@ -28,7 +28,7 @@ export function ChatComposer({
       onSubmit={handleSubmit}
       className="flex items-end gap-2 border-t border-border bg-card p-3 sm:p-4"
     >
-      <button
+      {/* <button
         type="button"
         aria-label="Attach image"
         className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg text-muted-foreground hover:bg-surface-2"
@@ -48,7 +48,7 @@ export function ChatComposer({
             strokeLinejoin="round"
           />
         </svg>
-      </button>
+      </button> */}
 
       <textarea
         value={value}
@@ -71,7 +71,11 @@ export function ChatComposer({
         aria-label="Send message"
         className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-primary text-primary-foreground transition-opacity hover:opacity-90 disabled:opacity-40 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
       >
-        <svg viewBox="0 0 24 24" className="h-4 w-4" fill="currentColor">
+        <svg
+          viewBox="0 0 24 24"
+          className="h-4 w-4 rotate-180"
+          fill="currentColor"
+        >
           <path d="M3 12l18-9-6 9 6 9-18-9z" />
         </svg>
       </button>

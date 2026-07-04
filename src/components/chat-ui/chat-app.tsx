@@ -190,7 +190,7 @@ export function ChatApp() {
                 ))
               )}
             </div>
-            <ChatComposer mentorName={activeMentor.name} onSend={handleSend} />
+            <ChatComposer mentorName={activeMentor.name} onSendAction={handleSend} />
           </>
         ) : (
           <div className="flex flex-1 flex-col items-center justify-center gap-3 p-6 text-center">
