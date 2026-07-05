@@ -25,6 +25,7 @@ function CodeBlock({
 }
 
 export function MessageBubble({ message }: { message: Message }) {
+  // This is from ai response
   const isMentor = message.sender === "mentor";
 
   return (

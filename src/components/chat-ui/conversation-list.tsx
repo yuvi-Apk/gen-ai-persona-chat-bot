@@ -36,12 +36,16 @@ export function ConversationList({
           <p className="truncate font-heading text-sm font-semibold text-sidebar-foreground">
             {mentor.name}
           </p>
-          <p className="truncate text-xs text-muted-foreground">{mentor.role}</p>
+          <p className="truncate text-xs text-muted-foreground">
+            {mentor.role}
+          </p>
         </div>
       </div>
 
       <div className="space-y-3 border-b border-sidebar-border p-4">
-        <p className="text-xs italic leading-snug text-muted-foreground">"{mentor.tagline}"</p>
+        <p className="text-xs italic leading-snug text-muted-foreground">
+          "{mentor.tagline}"
+        </p>
         <div className="flex flex-wrap gap-1.5">
           {mentor.tags.map((tag) => (
             <span
@@ -87,7 +91,9 @@ export function ConversationList({
                 <p className="truncate text-sm font-semibold text-sidebar-foreground">
                   {conversation.title}
                 </p>
-                <p className="truncate text-xs text-muted-foreground">{conversation.preview}</p>
+                <p className="truncate text-xs text-muted-foreground">
+                  {conversation.preview}
+                </p>
                 <p className="mt-1 text-[11px] text-muted-foreground/70">
                   {conversation.timestamp}
                 </p>

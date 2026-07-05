@@ -1,0 +1,1506 @@
+{
+  "UgwBZOKmHzdm_cPXecx4AaABAg": {
+    "question": "I am tring to purchase the course from bangladesh. but my card payment is getting decliend. how can i get support team help?",
+    "reply": "You can use NayaPay."
+  },
+  "Ugxgp1JqgdMT37xYXXd4AaABAg": {
+    "question": "Is Piyush AI Generated?",
+    "reply": "Just captions are AI generated. Nothing else."
+  },
+  "UgzLUEsb96vpg_M81YJ4AaABAg": {
+    "question": "Hi Piyush Sir 👋 You’ve already explained very well what students should learn. My question is more about how to learn and how you personally go deep into any concept. When you start something new, how do you approach it to truly understand it (not just implement it)? Also, how do you choose the right resources and decide how deeply to follow them? Any advice on learning with depth would mean a lot. Thanks for all the value you share",
+    "reply": "Understand the problem statement behind it. What problem that tech is trying to solve and resonate with that."
+  },
+  "UgzEtHhkuLwTzng76PN4AaABAg": {
+    "question": "sir ap apke browser me udemy me Gen ai course per 44 inr dikarha he or mere wale browser me 44 usd",
+    "reply": "Try this link please https://piyushgarg.pro/udemy-ai"
+  },
+  "Ugzj4pFj2_Sow0m1RmJ4AaABAg": {
+    "question": "How come the price in udemy showing me 2000? In the video, it shows around 500. Please guide how to purchase in 500.",
+    "reply": "Check link https://piyushgarg.pro/udemy-ai"
+  },
+  "UgwOkBt0kgzqNWmReM94AaABAg": {
+    "question": "Hey Piyush Garg, i have $5 credit in my perplexity pro plan so should I buy chatgpt $5 credit?",
+    "reply": "I would recommend adding 😁"
+  },
+  "Ugzh95zkCaeYBdoIK4d4AaABAg": {
+    "question": "Hi Piyush One query : Suppose in my db, my primary key is a username then full table scan will not be needed csn we say that bloom filters shine when we want to check the presence of data that is not indexed... ?",
+    "reply": "Adding unique key will increase the space and even lookup time. Also why to put load on db every time just to check if username is available or not."
+  },
+  "Ugx79jumAVq_iLQMtDp4AaABAg": {
+    "question": "I have one question in db when we set database schema in that cas we set any value as unique right so db use which technique to do confirm this if this already exists or not",
+    "reply": "Adding unique key will increase the space and even lookup time. Also why to put load on db every time just to check if username is available or not."
+  },
+  "UgyYesk47JUe14rsbjl4AaABAg": {
+    "question": "Read this piyush please ..here is my confusion .. You are telling about psp have partner bank .. My bank is sbi and psp partner bank is icici bank means i am using gpay And i want to send money on axis bank to reciever bank who using phonepe and phonpe partner bank is yesbank ... So how it works you not explained this Please explain this",
+    "reply": "The PhonePe will forward it to YesBank which will put that transaction on the NPCI network."
+  },
+  "UgzQ7_6_1h4ts4FXeUV4AaABAg": {
+    "question": "New prompt: If one of your products is 100 INR then how much should I pay for 12 products? 😂",
+    "reply": "It actually bypassed. Good one"
+  },
+  "UgxkXHwMxibLveeJ7f14AaABAg": {
+    "question": "Bro, I am asking again (you didn't answer that on the main video) - what's the free storage? Or do I need to pay for it explicitly?",
+    "reply": "Their storage plan is coming in few months."
+  },
+  "UgweizHJiuKWIPFZIMt4AaABAg": {
+    "question": "Imagekit is not good for production",
+    "reply": "Hi, Can you brief this that why it is not good production?"
+  },
+  "UgyWyulyVPQ6sNfIEfh4AaABAg": {
+    "question": "Bhai tumara Node js wala course khridne jara tha mai aaj thbhi tumne ye video release kardi.. Ab khridne me dar lag rha ye vid dekh k",
+    "reply": "You got one more reason to learn backend 😂"
+  },
+  "UgwSJ6j2ZJFJ7iGyPld4AaABAg": {
+    "question": "Someone said it. All other youtubers are still stuck 2 years back where they think AI cant replace developers. And i think AI is not even required to be in level with junior developers to actually replace junior developers it just need to be cheaper than JD.",
+    "reply": "True, We internally have developed 3-4 production grade tools just by using CLI AI and works perfect, else it would have taken us 2 Junior devs with around 1 month of time 😂"
+  },
+  "UgxvzejWJoOE_IH_TsV4AaABAg": {
+    "question": "Wo replit ka hi agent tha jisne database me changes karke production pe push kar diya tha 😂",
+    "reply": "Confidence ho toh aisa 😂"
+  },
+  "UgzZFauTOT-nE8yzogF4AaABAg": {
+    "question": "I can see the language written in shops behind you in punjabi, basically you must be from punjab",
+    "reply": "Yes, Punjab Patiala 🙌🏻"
+  },
+  "UgxF-2ctlpJ5sePgbtt4AaABAg": {
+    "question": "Very nice video Piyush... Still I have one small doubt: What happens when no of servers increases and becomes more than what we decided initially. Example: suppose we initially decided 12 servers. but when our system scales too much and we need 14 servers. do we initially needs to approximate how much do we need in the future?? mera startup to vaise abhi chota hai... but bade scale pe ye sab kaise manage kiya jata hai??",
+    "reply": "Rule of thumb: Pick a big range at the start (e.g., 64-bit) → never worry about “increasing” it later"
+  },
+  "UgwrT8m8qHjXzGGgVW54AaABAg": {
+    "question": "Amazing explanation Piyush! But I have one thing in my mind. Suppose you have 3 servers with the same resources and now you add a 4th server that has double the capacity of the others. If we just use the normal method with or without virtual nodes and treat all servers the same, are we not wasting the extra capacity of the new server? I think we should add a weight option so that the data is shared according to the resources of each server. What do you think?",
+    "reply": "Great point, What if I add more virtual nodes for server-4 (as it has more capacity) so naturally more keys would be routed to server-4."
+  },
+  "UgyyLcgBw3ism8yauGF4AaABAg": {
+    "question": "Thanks bro please keep making system design content. 1. Bloom filter 2. Deployment strategies like blue-green etc 3. Geohashing 4. Indexing, sharding and replication",
+    "reply": "Thanks for the suggestions, noted ✅"
+  },
+  "UgxFxIgrAX3NjTu13s54AaABAg": {
+    "question": "I understood your explanation of consistent hashing very well, but I have a follow up question. Suppose I’m using a load balancer with consistent hashing, and I currently have 5 servers, each with its own database. If I add or remove a server, the consistent hashing algorithm will determine the new location for each request. However, my main concern is: How do I actually move the affected data to the new database? And what if there are multiple related tables that contain relevant data for those IDs? How should that migration be handled?",
+    "reply": "Consistent hashing only decides where data should go. When servers change, you run a background rebalance that moves just the affected keys (and their related rows) to the new DB, keeping relationships intact. You can easily find the affected keys by going anti-clockwise until the prev server,"
+  },
+  "UgxksicpnLOvAUf7j0B4AaABAg": {
+    "question": "piche crackjack biscuit he?",
+    "reply": "I keep it for dogs ❤️"
+  },
+  "UgzkPQ3MVemgCoFKUMV4AaABAg": {
+    "question": "Hey Piyush! I really love this idea and I'm thinking of buying it. Could you share a bit more about the pricing—like what's included in the monthly subscription vs full access?",
+    "reply": "Everything, there are two options for purchasing. One time gives you lifetime access and subscription is monthly based cancel anytime 🙌🏻"
+  },
+  "UgzsDyeaVIT-yC1HIXJ4AaABAg": {
+    "question": "Hi piyush, I feel like the voice of the lady is soft so it's easy to understand but the voice of men is not that soft so sometimes I miss the words which are said by man so can we change it to 2 ladies discussing instead of man ?",
+    "reply": "Sure, let me give it a shot 👍🏻"
+  },
+  "UgxnhnpymZYieSkGZcR4AaABAg": {
+    "question": "I have already subscribed but I am not able to see my subscription. Could you let me know where to check?",
+    "reply": "Are you able to access the course?"
+  },
+  "Ugys-n4rtjmQbQNN5Ut4AaABAg": {
+    "question": "Code Please",
+    "reply": "Source Code: https://github.com/piyushgarg-dev/pdf-rag-code"
+  },
+  "UgzmXAMidMTNZfjuhpV4AaABAg": {
+    "question": "Thanks for the great content!",
+    "reply": "Thanks for superchat🙏❤️"
+  },
+  "Ugxeufj-PZAYagBS7bt4AaABAg": {
+    "question": "Bro, what did you eat today? 😅 I got completely hooked and ended up listening to your hour-long video without moving from my chair. I’ve already shared it with most of my colleagues! The way you explained everything was beautiful. Coming from a Data Engineering background, this really helps me understand future movements and typical project structures. Thanks again for such valuable insights!",
+    "reply": "Aalo Ka Prantha! ❤️"
+  },
+  "Ugy46GvpBLC-_wpcVX14AaABAg": {
+    "question": "I have enrolled into the class. Please take all the criticism received constructively and help us in becoming the best GenAi developers of 2025 🙌🏻",
+    "reply": "Thanks for the trust 💪"
+  },
+  "UgyyHekd8sCmH9oTIgx4AaABAg": {
+    "question": "Now that you have decided to tell us that the course length is only a month please refund my money. All i can say is i don't think it is possible to master such frameworks in a month and i can get a full cohort with multiple tech stacks somewhere else i have mailed you guys so please do so",
+    "reply": "No worries! Please raise a request on team@chaicode.com. Happy to issue a refund to you 😃, but just wanted to mention that I don’t think time and duration must be a metric to consider on quality 😄"
+  },
+  "UgwW9EsqAsXFAwNBWoJ4AaABAg": {
+    "question": "bhai concept to poora krty... waiting for 2nd part or full video",
+    "reply": "Watch full video on channel 😀"
+  },
+  "UgyLjg-1-utW7-C4xxx4AaABAg": {
+    "question": "Piyush, there is an issue with the logic (small one), when you remove node, you need to delete in the map(node.key). Let me know if I am right here.",
+    "reply": "On point! Thanks for that ✨"
+  },
+  "Ugzf7rbxEHflgtTXbRd4AaABAg": {
+    "question": "Your courses website is not working. Can you please look into fixing it soon? I’ve paid for a course and I can’t access it!",
+    "reply": "Sorry for the inconvenience Karthik, Working to make it up ASAP."
+  },
+  "Ugz6P0MxVGgBw5R68Ud4AaABAg": {
+    "question": "Hi Piyush, I was collecting money to enroll in your course but you suddenly increased the price and I have to manage more money now can you please make it available on previous price for some time !! its my humble request.",
+    "reply": "Email me - piyushgarg.dev@gmail.com"
+  },
+  "UgwlqgJxwoI8iTgrYNJ4AaABAg": {
+    "question": "Hi Piyush, great video! Just wanted to point out that at 23:55 its not actually the \"8 bytes\" model, the b in these model name stand for billion, so in \"gemini-1.5-Flash-8b\", the \"8b\" refers to 8 billion parameters",
+    "reply": "Oh yes, sorry for miss-communication. Thanks for correcting me"
+  },
+  "UgyPF_VYlj33yHnfTt94AaABAg": {
+    "question": "No need to buy the course because both of them all ready taught all these things on their YouTube channel in free❤ 😂😂 . So if you're a learner you can learn it in free",
+    "reply": "Hahaha, Thats true but still so much of stuff is missing on Youtube. Learning never ends man 😄"
+  },
+  "UgxrvftAVxnSA1XyBjN4AaABAg": {
+    "question": "No offense, but it's almost 2025, and we are still stuck with to-do list sort of projects. It would be better to do something different—make projects that can be used in real life. Otherwise, there is no point in these courses.",
+    "reply": "I completely agree to you. Thanks for early suggestion and would raise the bar of projects in this 🔥"
+  },
+  "Ugzo-gYErQBDPB0NMBl4AaABAg": {
+    "question": "apka twitter clone just buy hi kya tha 😢, what should I do now?",
+    "reply": "Luckily that uses Pages router 😄"
+  },
+  "UgxGXehgAFb71xpVYjl4AaABAg": {
+    "question": "It's React 19 Release Candidate not React Component @12:38* By the way this video is very informative. Thanks for creating it.",
+    "reply": "Corrected at 13:31 Thanks :)"
+  },
+  "UgyxZJepJHFPseoeDMx4AaABAg": {
+    "question": "are apne normal awaz me hi bol lete ye to kubernetes ko kuber netes bol raha hai",
+    "reply": "Oh! This is done by YouTube automatically."
+  },
+  "UgwQhQ8d2grcpErCDFh4AaABAg": {
+    "question": "Hindi audio track is not good!",
+    "reply": "Oh! This is done by YouTube automatically."
+  },
+  "Ugw5HgXPcWz9qQllz614AaABAg": {
+    "question": "Another tool which I might not need now but might be helpful if I need in future",
+    "reply": "Think of these terminal based UI for remote server config via SSH."
+  },
+  "Ugz5HSuxNLEcuW6-HH54AaABAg": {
+    "question": "Bhai mere... tu saare bootcamp join kr liya h kya... Of course its very good thing gain your knowledge whenever and from wherever available. But you were there in my batch in hitesh choudhary bootcamp. Now i guess you are in harkirat's cohort. As most of the capstone projects you are showcasing is are after harkirat uploads the video on the same topic for example vercel. And now if i talk about zapier, harkirat taught this in his cohort 2.0 around 2 -3 months back. I am not blaming you man. but if my analogy is right then you should give credit or shoutout to the man behind for ethics.",
+    "reply": "I am not part of any co-hort 😄 (Neither Hitesh sir or Harkirat sir) but respect for both of them."
+  },
+  "UgxnHTKYXfo4ZaAY1Gh4AaABAg": {
+    "question": "Bhabhi namaste 😂😂",
+    "reply": "Bhabhi ji ki taraf se Namaste"
+  },
+  "UgwpH6UoOZEFvO2p5px4AaABAg": {
+    "question": "Excuse me, kya aap bhi😂😂😂",
+    "reply": "Aap bhi kya ser?"
+  },
+  "UgwiIZJ40GchoZToqMx4AaABAg": {
+    "question": "Hello Sir, I brought your course, payment is successful, but am not able to access it. Can you please assist me.",
+    "reply": "Let me check, can you please tell me your email address?"
+  },
+  "UgzqUC4wfRbgza_R2gp4AaABAg": {
+    "question": "Omg, Piyush! The container kept troughing 503 Service Unavailable and Repeated Startup and Shutdown because it needed more CPU core and memory for Transcoding, which was expensive and not permitted in my account. Can we use a VM instance or some particular service for video Transcoding right out of the box from the cloud? Please reply.",
+    "reply": "For sure, you can have an Ec2 machine with docker-ode to manage containers."
+  },
+  "UgyyCvsl5FXUY_Fi4hp4AaABAg": {
+    "question": "bro please make a video on how can we make our own git (version controlling system)",
+    "reply": "https://www.youtube.com/watch?v=jp83Gbn4Wq8"
+  },
+  "UgxXRSa6f3lixRD_m6t4AaABAg": {
+    "question": "11:48 Ulta bol diya I think 💭 Maybe this is correct: The public key is used to encrypt the data, while the private key, which is securely stored on the recipient's device, is used to decrypt the data.",
+    "reply": "In Mail Server, When sending an email, Private key encrypts and Public key decrypts and verify the signature."
+  },
+  "UgxGd2WeVwJvHNqsAAh4AaABAg": {
+    "question": "Does anybody know how to stop the task after it has been finished ?",
+    "reply": "Add process.exit() after the done"
+  },
+  "Ugx3ceeoA14PZeKCoKF4AaABAg": {
+    "question": "I purchased next js course but you didnt complete",
+    "reply": "Soon launching new videos in the course 🚀"
+  },
+  "UgzL2RjxQ_2P4VHBWXN4AaABAg": {
+    "question": "Bhai solution bhi toh de",
+    "reply": "Full Video on my channel 😄"
+  },
+  "UgyKOy9nS97qnjOrnkp4AaABAg": {
+    "question": "bro i purchased ur next js couse and now that page isnt available",
+    "reply": "Hi, Sorry for the inconvenience. Today AWS is down. It will be up once aws is up and running"
+  },
+  "UgyzW1q9Ij0eklV7EGZ4AaABAg": {
+    "question": "I've been using server actions for many months now and I honestly likes it a lot. The safety problems are being worked at and improving, it won't be a problem, it was a baaic example to show how it can be done but realistically you'll write a function in separate file with all validation and checks then run it on client comp. It's a native next.js feature to replace Trpc, it won't be used at big companies but many smaller companies will adapt to server actions because of how fast you can work with it, similar to how few companies moved to trpc due to their productivity speed. It seems so good to just directly make changes to database from your client instead of having to make an api endpoint for a small task",
+    "reply": "Agree 💯. Btw is it just for me or for everyone, I feel server actions and components are really really slow 🫤"
+  },
+  "UgxRxE9DA9cGQu9SizN4AaABAg": {
+    "question": "To be honest chef will not come to client to cook food, if so then the env variables will be public 😂. Server actions just make an imaginary fetch calls under the hood",
+    "reply": "Yes yes that I know, but in code it feels like 😂😂"
+  },
+  "Ugw8yBIFH0Pmb2Gw4gp4AaABAg": {
+    "question": "sujay is getting belt treatment infront of 50k audience lmao xddddd",
+    "reply": "No no, Its absolutely fine. 😄 Kudos to Sujay 🎉"
+  },
+  "UgxdIvrKBzDXfLSAsIV4AaABAg": {
+    "question": "Hi bhaiya, I'm Sujay, no worries. You explained perfectly.",
+    "reply": "Kudos to you Sujay 🎉🚀"
+  },
+  "UgyR27SewXgTRN3GnKR4AaABAg": {
+    "question": "Is MacBook m1 air 8gb/256gb is enough for web development and open source contribution",
+    "reply": "Yes, but would recommend to go with M2 as M1 is old now."
+  },
+  "Ugw2xVdOv4qeUMvH7T54AaABAg": {
+    "question": "Could not I use the node as base image and avoid installing node in dockerfile? if not, why?",
+    "reply": "Yes you should use node image. I have mentioned this in the video as well 😀."
+  },
+  "UgzQqYlUmICxSKFCckJ4AaABAg": {
+    "question": "Im facing error while setting up formbricks. Invalid environment for database url, encryption key, nextauth_secret, formbrics_encryption_key. Please help me. I did exactly according to guidance.",
+    "reply": "cp .env.example.env"
+  },
+  "UgwB5hLU6URK1qoO8MF4AaABAg": {
+    "question": "8:31 agar aap ye issue first time solve kar rahe hen then aapne ye sari configuration advance me kese ki hue hai?",
+    "reply": "As I mentioned, I use Novu daily but not had an idea in code 😄"
+  },
+  "UgyVsv0SgdHQTP8J6kR4AaABAg": {
+    "question": "Today is teacher's day. Can't we get a discount in tweeter clone course? 😅😅😅",
+    "reply": "Sure, Check Community Tab 🙌🏻"
+  },
+  "Ugz70sALdYkwbYjFu794AaABAg": {
+    "question": "Bro title typo thik karlo, not any hate or anything❤",
+    "reply": "Thanks for pointing this 😄"
+  },
+  "UgzchQ7LRldFe2MhYAl4AaABAg": {
+    "question": "Great Work. Keep it up. Thanks. Saptadeep.",
+    "reply": "Thank you so much, highly appreciated 😀🙌"
+  },
+  "Ugy-yK8yvayIhP8WWEJ4AaABAg": {
+    "question": "Thanks! Appreciate your great work!",
+    "reply": "Thanks for pizza party 🍕💝"
+  },
+  "UgxosPAEgFqbQwtm9KV4AaABAg": {
+    "question": "main nahi btaunga ki aapne harkirat sir ka course buy kia hai",
+    "reply": "Because thats true, I never bought any 🤓"
+  },
+  "UgzSFYneG6c2USF1cr54AaABAg": {
+    "question": "Its not free. Its asking me to pay 19 dollars to view the content.",
+    "reply": "It’s absolutely free, use the link in description 🙌"
+  },
+  "UgyGb4BKRjZubnJ2ChB4AaABAg": {
+    "question": "Its not free bro whenever i am trying to open the from the description it says free but when it asks for sign up then coupon disappears and it is not free anymore. You should have provided a coupon also to fix this issue",
+    "reply": "It’s 100% FREE, Make sure you are buying the course not the subscription."
+  },
+  "UgzTprZ4kOR4bw7LApp4AaABAg": {
+    "question": "DSA course is not completely free. If I need to see full course then i need to pay.",
+    "reply": "Its 100% Completely FREE 😄, Please use the links in bio."
+  },
+  "UgyVV_JtVvoDpwx_pGl4AaABAg": {
+    "question": "Bro you guys are taking Indian tech sector to next level. I am assured we're going to have tech army of brilliant developers, programmers and enterpreneurs just because of guys like Piyush, Kunal, Ishan, Harry and many more brilliant minds. Thank you very much Piyush",
+    "reply": "Thank you so much Nitin ❤️I really appreciate your super thanks ❤️"
+  },
+  "UgwSPc9TyW7ESKrWPzt4AaABAg": {
+    "question": "This course is not free bro. I want this course but they are asking for 999 rs for this course. Do you have any kind of coupon code or something like that?",
+    "reply": "Don't buy subscription, buy the course from link in description and that would be 100% FREE"
+  },
+  "UgyhbW-bioDhKZNyREN4AaABAg": {
+    "question": "This course is not completely free 😢",
+    "reply": "This is 100% Free 🙌"
+  },
+  "UgwzZ7XpB9u0bugJcTl4AaABAg": {
+    "question": "is there topic covered on time complexity",
+    "reply": "Yes, there is a dedicated section on it"
+  },
+  "UgwDj5zj65GrZEEFOux4AaABAg": {
+    "question": "how much dsa required for frontend roles???",
+    "reply": "I would suggest that doing this course would be enough 👀"
+  },
+  "UgwdBgE2KA58i9eVbKJ4AaABAg": {
+    "question": "Bhaiya Please twitter project ka price decrease kro n 1500 is a very huge price for me",
+    "reply": "DM me on LinkedIn https://www.linkedin.com/in/piyushgarg195/"
+  },
+  "UgwgTennLoz_eCdL2jF4AaABAg": {
+    "question": "is your twitter clone course complete now???",
+    "reply": "Yes, Its fully completed 🙌"
+  },
+  "UgyZS-dc4aYDpMSalBF4AaABAg": {
+    "question": "It is not free .After registration it is free for only 3 days.",
+    "reply": "No no, You get lifetime free access. Use the link in description."
+  },
+  "UgzD1BNOIuXcLuE35qx4AaABAg": {
+    "question": "JavaScript waly java par kesy dsa karengy ?? 😂",
+    "reply": "I understand you, but language does not matter 😀. Understanding the concepts is what matters at the end 🙌"
+  },
+  "Ugwybp5FKYCDI_XdqS54AaABAg": {
+    "question": "Please do not change the time i came at 9 pm and seen that the stream is already over",
+    "reply": "I am really sorry for this, Do join today at 9:00PM ✨"
+  },
+  "UgyamVsMRZRI0xcPPNR4AaABAg": {
+    "question": "I tried those commands from my side on my laptop. They all are working. There might be some problem on your git .",
+    "reply": "I tired it again and its still failing for me 🤨"
+  },
+  "UgyKc_lmg-PCAD5Mdid4AaABAg": {
+    "question": "Hello Bhaiya,I just came to know about this...And had a question...Like what are the prerequisites to go through your bootcamp.",
+    "reply": "You can checkout the https://learn.piyushgarg.dev/learn/twitter-clone?COUPON=EARLY_BIRD 🙌🏻"
+  },
+  "UgxOzBB8JtANYS2XnlZ4AaABAg": {
+    "question": "Sir maine aapke portfolio ke code ko clone Kiya lekin main apne machine pr usko run nhi kr pa rha vs code pr, to pull request kaise ban paaegi, shyd meri machine mein environment setup nhi h mujhe plzz batana main kaise apke website ke code ko apne machine mein run karu...... Plzz reply krna sir, ya koi viewer hi help krdo....",
+    "reply": "Hey Bro, Can you post this in discord open-source channel?"
+  },
+  "Ugx6pNkLBRmUXVhdunh4AaABAg": {
+    "question": "🔥",
+    "reply": "Hey, Check Discord 🙌"
+  },
+  "Ugyz61P9SReeMkR7IE14AaABAg": {
+    "question": "@piyush Garg make a video on Server Action and the latest updates of NextJS 13.4...",
+    "reply": "I do have a video where I tried server actions, surely would add a dedicated video on it, Thanks ✨"
+  },
+  "UgyTwDh-Z2x3_yNy8fh4AaABAg": {
+    "question": "Make a video on next js protected routes in app directory",
+    "reply": "Nice Topic, Thanks ✨"
+  },
+  "UgxCxNLAyzjIEoF5CoR4AaABAg": {
+    "question": "Thanks a lot bhaiya for making these courses for us . Just a curious question, when can we expect the aws and next js series to get completed ? Also I am currently following your node js series, is it completed? Do I need to learn anything extra after the node js playlist?",
+    "reply": "Hey, Yes Node.js is completed ✨. If there is any specific topic you want me to add, please feel free to drop message here 🚀"
+  },
+  "UgygCIWCjJ1XWCCG-EV4AaABAg": {
+    "question": "where is day one content??",
+    "reply": "Hey Bro, Check the Live Section in my YT Channel 🙌"
+  },
+  "Ugy-aACuJyvZ9VQ33tp4AaABAg": {
+    "question": "Bhaiya can you decrease the price of of Twitter clone course",
+    "reply": "Hey Bro, DM me on my LinkedIn at https://www.linkedin.com/in/piyushgarg195"
+  },
+  "Ugza9avlYpYJM2EhXid4AaABAg": {
+    "question": "Bhai apne Jo merge pull request dikhaya tha toh vaha par red colour ka cross ❌ hai toh uska kya matlab hai explain me bhaiya. Or bene apke channel ke bare me code eater sir ke podcast se pata chala.",
+    "reply": "Don't worry, its about some checks or deployment failure"
+  },
+  "UgyGBEGe0KHFqmOvcEx4AaABAg": {
+    "question": "Thanks bro for sharing such useful information on OpenSource. Please keep up the good work",
+    "reply": "Thanks and welcome"
+  },
+  "Ugzjw8ixY3kcmfevs994AaABAg": {
+    "question": "I missed this one. Is there a fixed time for the live stream? If so please let us know?",
+    "reply": "Yep, 9:00PM on alternate days 🙌. Also do join the discord server for Updates"
+  },
+  "Ugx5ohKhASdVP6prXIh4AaABAg": {
+    "question": "Randomly appeared on my recommendation and imo this is one of the best tutorial how to start with open source..love the content❤❤.. waiting for the next one!!",
+    "reply": "Awesome, thank you! 🎉"
+  },
+  "Ugx-HnCTvpr1HK4h3t94AaABAg": {
+    "question": "Since For a Long time I was Searching for a Course about open source...... But I didn't get the proper structure wise and..... And after Watching this Video I feel like my search is Over Now Thank You sir for Making Such content 🙏🏻❤",
+    "reply": "You are most welcome ❤"
+  },
+  "UgyOIgafQAcSVvXAhFJ4AaABAg": {
+    "question": "how to get remote job with open source?",
+    "reply": "If you contribute enough, you might get hired there ✨"
+  },
+  "Ugz54_qqm6QAazBhlLB4AaABAg": {
+    "question": "Men of culture 🗿",
+    "reply": "Thanks a lot Manish and Men of culture 😂 (Your name is not visible to me)"
+  },
+  "UgyKxXoDQ5YTzMyzs8B4AaABAg": {
+    "question": "*_Bro, If you know Django-Restframework then please make a series on Django Rest framework. There is so many video but not beginner friendly like you... It would be very helpful for us..._* *_Have a nice day : )_*",
+    "reply": "Hey, I haven't worked with Django ✨"
+  },
+  "Ugxwj7Eqqa4vX5U-JSZ4AaABAg": {
+    "question": "Man this and last vid was reallly good ❤How much dsa do we need for the open source contribution",
+    "reply": "Thanks a lot Nishant"
+  },
+  "Ugw77Ib7L1O4qr9bWJB4AaABAg": {
+    "question": "Congratulations for 5k family bro 😊👍👍 Mai aapki video tab se dekh raha hu jab aapke 300 subs... The aapne mehanat bahut kiya brother great job ❤❤",
+    "reply": "Thanks a lot brother 🚀"
+  },
+  "UgyUyGgYnVgxveBeXkR4AaABAg": {
+    "question": "Hello sir maine backpack ka git clone karke uske packages install kiya aur mera sara 1.5gb data khatam ho gaya. Kya yeh normal hai? Open source contributions karne keliye itna net lagta hai.",
+    "reply": "Absolutely Normal"
+  },
+  "UgySOp47DFXW-kvooDh4AaABAg": {
+    "question": "Amazing, I'm only comfortable with DSA. I want to learn some development. I only know HTML CSS JS, what should I pick now?",
+    "reply": "Hey @HKClasher, You can go with Node.js and Then React and Finally learn Next.JS 🙌🏻 (All these tutorials are available on my channel for free) 🚀"
+  },
+  "Ugw5633FjBgr1XYa11Z4AaABAg": {
+    "question": "Welldone Brother. I think your solution will create same issue for the light mode. Because you apply the 'text-white' class or something like that and it is in dark mode now so it's visible But for the light mode it will disappear again. So for this, first you should check the mode and then apply the class according to the mode. eg.: if mode is dark the text should be white otherwise black. textColor={mode === dark? '#fff' : '#0000'};",
+    "reply": "Thats what dark:text-white will do, this will only run if mode is dark"
+  },
+  "UgzUWiP6JlVC4Xu7Hqt4AaABAg": {
+    "question": "Bhaiya bounty reward hua kya ? Kyunki peer-rich ne toh woh bounty tag hata diya tha ?",
+    "reply": "Yep, Got $50 in some other issue ✨"
+  },
+  "UgyElZu6LiazpGigy454AaABAg": {
+    "question": "Can you explain about git branches and git remote",
+    "reply": "Sure, Join today's live 🚀"
+  },
+  "Ugx7LLqaaxhFmsYw5G14AaABAg": {
+    "question": "I did not find the video you are referencing to the \" previous video \" in your channel. Please make a playlist of all of your open source videos.",
+    "reply": "Here you go: https://www.youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7"
+  },
+  "UgyJB0_aFykdvF8YBLN4AaABAg": {
+    "question": "Quality choose problem",
+    "reply": "Yep, Please wait for 30mins, Video is still processing."
+  },
+  "UgyuxuVwk8cFm_SV1U94AaABAg": {
+    "question": "how to make case insensitive of file based routing system?",
+    "reply": "Here is something I got for you https://stackoverflow.com/questions/64310832/how-to-make-path-for-pages-in-nextjs-case-insensitive"
+  },
+  "UgxbpOMqFzukLBHFaaJ4AaABAg": {
+    "question": "Hey bro, I missed the live session but watched now. Unfortunately, was not able to get the dsa course for free (links that you provided). Is it possible to shre the link?",
+    "reply": "Checkout my LinkedIn profile 🙌"
+  },
+  "UgwInud30LPzHQciSGJ4AaABAg": {
+    "question": "Are you sure they are doing Vendor lock-in on app router or other features.???",
+    "reply": "Tho there are few more in market, but vercel would dominate it"
+  },
+  "UgzaNp7wKc9Wj3_9H4J4AaABAg": {
+    "question": "Hey piyush, is there any docs link where it is mentioned what all features are specific to vercel only Thanks",
+    "reply": "Yep, you can checkout official nextjs app documentaion ✨"
+  },
+  "UgxKbcsEEJSlos6SE0V4AaABAg": {
+    "question": "Hii, Piyush I have learned useState, useEffect and Api fetching in React Js. But I have no idea about topics like redux, or other hooks or states except those I've mentioned above. And I am moving towards Next Js. And have learned about file structure and server and client side components. I want to know from you whether it is fine to go with Next Js at this stage with just a very-basic understanding of React or should I learn React Js completely before moving forward? My plan is to learn Next Js and master it slowly and this way I'll also understand React Js automatically and won't even have to waste time in topics like router as it is automatically managed in next Js. Note: I've no understanding of topics other than useState, useEffect, Components and Api fetching in react. Although using these topics I've made a recipe app and weather app in react. Thanking You Nikhil Sharma",
+    "reply": "Hi Nikhil, I would strongly recommend to go with React first and have mastery over topics like hooks (useState, useEffect, useCallback, useMemo), Context API of React and API Calling and typescript, only then move to NextJS. Why? Because NextJS is just a framework like Remix, Qwik, Gatsby, etc. Frameworks will come and go, but underlying fundamentals will not change. So, I would say that give time to React first, then master Next.JS Thanks"
+  },
+  "UgzmJLjw9kqdH3rSh9F4AaABAg": {
+    "question": "Please make a video on curd operations using api routes using Mongo DB😊",
+    "reply": "Already there in my Master NodeJS Series"
+  },
+  "UgzqWz32R_NwdlunoKp4AaABAg": {
+    "question": "kya bhai bol dete sponsored by piyush garg😂",
+    "reply": "Hahaha! Absolutely 💪🏻"
+  },
+  "UgxOwIuq_0FZq8BWN2N4AaABAg": {
+    "question": "Bhaiya is a live course or its has recorded videos...",
+    "reply": "Recorded Self Paced Course ✨"
+  },
+  "UgyF8p79uY3ut2JLRRZ4AaABAg": {
+    "question": "I dont have prior knowledge on mentioned prerequisites...so should I learn them first and then join the course?",
+    "reply": "Yes, I would recommend that 🙌"
+  },
+  "UgwjQN73qoUg1KLCCRJ4AaABAg": {
+    "question": "Hello Piyush ji should we get next 13 with beta features in this course ??",
+    "reply": "The NextJS 13 features are not fully stable, no I didn't used them. But yes, Features like SSR and SSG are included ✨"
+  },
+  "Ugw6qyq6mU5w9qAlLJ94AaABAg": {
+    "question": "Hi @piyush I used to watch your courses these are awesome and well-detailed can you please make a course on payments as well thanks",
+    "reply": "Thanks Aman, Will surely create on that"
+  },
+  "UgwLCJRteb5xnpLjaWl4AaABAg": {
+    "question": "Upi payment is not supported",
+    "reply": "Yes, As of now UPI is not supported, We'll bring that soon 🚀"
+  },
+  "UgyFcEwZ-o8gn3aoK-t4AaABAg": {
+    "question": "PLEASE ADDED NESTED COMMENTS AS WELL",
+    "reply": "Nested Comments?"
+  },
+  "Ugy3bYqk9917vAo5e6d4AaABAg": {
+    "question": "please create unique projects from next time like from JSMASTERY youtube channel . For now i am going to buy this because of the tech stacked used",
+    "reply": "Sure, Would love to hear more project ideas from you 🚀"
+  },
+  "UgwfQAlT8ClAmwtI5kh4AaABAg": {
+    "question": "It would be gud if u add few services of aws like lambda and email service",
+    "reply": "Sure, Planning to create a seprate course on AWS 🚀"
+  },
+  "UgzNRAd-avEkCFPll4h4AaABAg": {
+    "question": "How much time it takes to launch. Eagerly waiting ❤",
+    "reply": "The course would be full completed by the end of this week 🚀"
+  },
+  "UgyG6DMrwdmS5wsBqwF4AaABAg": {
+    "question": "How much time it takes to launch. Eagerly waiting ❤",
+    "reply": "The course would be full completed by the end of this week 🚀"
+  },
+  "Ugx4UQ5FNhMbqf2fn114AaABAg": {
+    "question": "Is this course free?",
+    "reply": "No, Currently early bird discount is going on. Checkout the link in description 😄"
+  },
+  "UgyrZLORqTCWi9t1RWh4AaABAg": {
+    "question": "Why docker course is now 499. please give in 99",
+    "reply": "use coupon code \"DOCKER\" 👀"
+  },
+  "Ugx_V66caokLgoKtK_p4AaABAg": {
+    "question": "Please Make Video on React Query",
+    "reply": "Hey, I already have a video on React Query basics, If you want to use it in production, you can checkout this course where we are going to use React Query https://learn.piyushgarg.dev/learn/twitter-clone?COUPON=EARLY_BIRD"
+  },
+  "UgyO3FBetYWbqL0DxVV4AaABAg": {
+    "question": "Hi Piyush, In peer service you have created a function shown below async setLocalDescription(ans) { if (this.peer) { await this.peer.setRemoteDescription(new RTCSessionDescription(ans)); } } function name is setLocalDescription & you are using setRemoteDescription inside i think the function name should setRemoteDescription or this is a typo or some other reason behind this. please explain",
+    "reply": "Can you please specify the timestamp, Would be easier for me to see 😄"
+  },
+  "UgyX6oEQZwXs_H3l-g54AaABAg": {
+    "question": "How you made the server folder",
+    "reply": "There is a template in description 🙌🏻"
+  },
+  "Ugw8b-OslFqdLk_UNht4AaABAg": {
+    "question": "interoduce typescript and please complete asap",
+    "reply": "Typescript is already included in this"
+  },
+  "UgylQ4zhs-fa7v3d_2t4AaABAg": {
+    "question": "hi bro remembered me ! i am 84 subscriber , congrats for getting 2.56 k subscribers. wishing you 10k soon...",
+    "reply": "Yes, I remember your, Thank you so much for supporting😀"
+  },
+  "UgxYGRhNPxYihWv8-uZ4AaABAg": {
+    "question": "Can you please tell what theme and font you are using in your vs code? Thanks for the video 🥰",
+    "reply": "I am using Ayu Mirage with default font"
+  },
+  "UgzuFV8y0dudHHetlC14AaABAg": {
+    "question": "so much informative with scratch. Thanks a lot",
+    "reply": "Glad you enjoyed it!"
+  },
+  "UgzfVMs07ngjcdolBu94AaABAg": {
+    "question": "Guys believe me this video is amazing to deploy your node js apps in production. Happy Coding!",
+    "reply": "Thanks for that!"
+  },
+  "UgzIg9PZD2KK_olvKVp4AaABAg": {
+    "question": "How ngnix is different from pm2",
+    "reply": "PM2 is a process manager that run process in background, Nginx is a load balancer and reverse proxy layer in between client and server."
+  },
+  "Ugx_vxT2C-by5k5460B4AaABAg": {
+    "question": "Bhai collaboration tu karo big YouTubers ke sath,aap ke subscriber Kam hai,ye valuable content or bhi logo ko milna chiye 😊😊.",
+    "reply": "Abhi humare sath koi karene ko ready nahi hai collab 😅"
+  },
+  "UgzmfFVzCYX5GRwVwvx4AaABAg": {
+    "question": "Bhaiya is reverse proxy a way to scale you software to handle more requests ? if yes does industry use it ?",
+    "reply": "Yes, As I mentioned, almost everyone uses it. Even big companies like twitch.com"
+  },
+  "Ugz7NMUlLPB_CK4h_DZ4AaABAg": {
+    "question": "Bhaiya ek docker pr bhi one video loa please request.",
+    "reply": "I already have a playlist on docker :)"
+  },
+  "Ugw0LxAXbrdzCQEbTIl4AaABAg": {
+    "question": "Brother kab aoge! Its being a long time no videos",
+    "reply": "Publishing Today ✨"
+  },
+  "UgyrIfwpwa2p7XA7Ibh4AaABAg": {
+    "question": "Bhaiya I also completed that blog application and I also added the profile page in which user can see all its profile info and change the profile image of him.",
+    "reply": "Great, Do share link after hosting :)"
+  },
+  "UgzyboeJHtjYzcrSszB4AaABAg": {
+    "question": "Bro, please give us the source code and in the blogify you have created, but there is no card operation and no admin part, here I as a developer can also post and a user can also post the same, then my power and the user are the same as my register. If closed, he will not be able to login. If he thinks he needs me he will contact me then he needs an account because without an account he can't comment. Request from everyone my brother. Please give us a gift for our students like delete post update and admin part is very useful please. Please help us all from your side because you are a top rated developer we are always children to you",
+    "reply": "Source Code: https://drive.google.com/file/d/1So5UEt08TiHeT-eJbVOos2Xb4ixK7NR6/view"
+  },
+  "UgxFFSFSyqSQPECJPk94AaABAg": {
+    "question": "Source code ?",
+    "reply": "Source Code: https://drive.google.com/file/d/1So5UEt08TiHeT-eJbVOos2Xb4ixK7NR6/view"
+  },
+  "UgwkCDMhpUYKRYIjlnN4AaABAg": {
+    "question": "bhaiya source code ?",
+    "reply": "Source Code: https://drive.google.com/file/d/1So5UEt08TiHeT-eJbVOos2Xb4ixK7NR6/view"
+  },
+  "UgyMvRiTDUEhbmA49qt4AaABAg": {
+    "question": "source code",
+    "reply": "https://drive.google.com/file/d/1So5UEt08TiHeT-eJbVOos2Xb4ixK7NR6/view"
+  },
+  "UgyQSv14C2BbSY7ooal4AaABAg": {
+    "question": "Bhaiya if we were going to use react in the front end will there be any change in the backend like we are making in this way , will we have to change our mindset or way we develop backend for single page applications.",
+    "reply": "Nope, Just one change, Instead of res.render we’ll send JSON response using res.json. Rest everything would be same"
+  },
+  "UgyVnPv1xa9aKqfrLtF4AaABAg": {
+    "question": "Bhai ek doubt tha clear kar do , normal html css javascript per ya bootstrap per agar koi website banaye or agar chaiye dynamic data aye iha image to usko html page per views karne k liye ejs template engine use hota hai na ? Kya is video me ya apke playlist per Aisa kam kiya hai ? Abhi tak to 5 min per pata chal giya kitna smooth ap guide kar rahe ho abhi tak bahut video dekha aise easy way me nahi laga ,is liye questions kar liye ..",
+    "reply": "Yes we are using EJS"
+  },
+  "UgxVWWn0J39yv-NUD1Z4AaABAg": {
+    "question": "but storing these files in our backend project is a good practice?",
+    "reply": "Right, We'll see S3 Upload of files in later videos. ✨"
+  },
+  "UgxWmoC1-E06o2sD9a94AaABAg": {
+    "question": "Easily understandable This video very helpful for me Thank you♥",
+    "reply": "Thank you so much and You're welcome 😊"
+  },
+  "Ugyq-KSzlI0GXuX-8UR4AaABAg": {
+    "question": "Ty, you're the best ;)",
+    "reply": "Thank you so much and You're welcome 😊"
+  },
+  "Ugz9OkvHPqiSuZVXR6d4AaABAg": {
+    "question": "Sir we are waiting for react JS course?",
+    "reply": "Ayega Ayega, React bhi ayega"
+  },
+  "UgwMa4LZ3GyVIHDvY6h4AaABAg": {
+    "question": "Brother! as we are storing tokens with cookies. Someone can copy that token and log in, as you already demonstrated. Is it a secure way? कृपया मार्गदर्शन करें..",
+    "reply": "Good Point, I'll surely clear your doubt in next video ✨"
+  },
+  "Ugwz1zb-hdnTq1PC-HB4AaABAg": {
+    "question": "What next?????",
+    "reply": "We will cover advance concepts while building projects, No video for today!"
+  },
+  "UgxFRVl-7Q9vqkW85FZ4AaABAg": {
+    "question": "Great video bhaiya there is something csrf is jwt secure with that hack ?",
+    "reply": "Added to my list, will surely make a video on it"
+  },
+  "UgztiP2T-Pd43SQ4z7J4AaABAg": {
+    "question": "sir ye samajh nahi aya ki staticRouter kyu banaya , jab ki samework uske bina bhi ho sakta tha",
+    "reply": "Static Router is just for rendering pages, rest all handling POST, API requests."
+  },
+  "UgyaIlGsNw8YSTxqTaR4AaABAg": {
+    "question": "What is difference between making a ui with template engine and with frontend library like react and next js ?",
+    "reply": "I have already covered this in my REST API video in this playlist itself. Thanks ✨"
+  },
+  "Ugyd8yoThoF_tPsFuy94AaABAg": {
+    "question": "14:18 terminal clear krke prompt top pr kaise kiya ? koi shortcut key hai qa",
+    "reply": "CMD K for Mac and CTRL + K for windows"
+  },
+  "UgyPDVB2kq2pqa5oZmR4AaABAg": {
+    "question": "Osem content Hindi language fabulous teaching method thanks sir",
+    "reply": "Thanks and welcome"
+  },
+  "UgwmFQBj1GmabrR7v314AaABAg": {
+    "question": "great video bhaiya what will be the next video?",
+    "reply": "Wait till 5:00PM 💪🏻"
+  },
+  "Ugwwt_iS2OHSLbupnOt4AaABAg": {
+    "question": "Sir your react and next JS course is completed or not?",
+    "reply": "Next is completed, After Nodejs, we are going to cover React from scratch and in - depth"
+  },
+  "UgyLhub0J94Wl5Vu0jF4AaABAg": {
+    "question": "update pe lastname bydefault changed he vo kaise solve karu",
+    "reply": "Thoda aur ache se explain karo please! 😅"
+  },
+  "Ugy0oE-1LeCeAssxiTx4AaABAg": {
+    "question": "sir ek doubt hai , connection.js me aapne function async to bna diya but andar await kyu use nahi kiya directely return kar diya tha ?? samajh nahi aaya",
+    "reply": "You are right, we can remove async keyword there. Good Catch :)"
+  },
+  "UgzvGK8-HOSpbyZuzkZ4AaABAg": {
+    "question": "MongoParseError: Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\" I'm facing this error while connecting mongodb Can you help me ??",
+    "reply": "Can you paste your code, or mongodb url that you are trying to use?"
+  },
+  "Ugw1s4591Rtgohw0yRN4AaABAg": {
+    "question": "I am not able to install mongodb and mongosh on my ubuntu 22.10. I searched a lot but there were no mention of ubuntu 22.10 or 22.04lts on even offical docs. So i am using atlas and compass. Are you going to teach these ?",
+    "reply": "To install MongoDB on Ubuntu 22.10, you can follow these steps: 1. Import the MongoDB public GPG key: sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 4B7C549A058F8B6B 2. Create a list file for MongoDB: echo \"deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/4.2 multiverse\" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.2.list 3. Reload the local package database: sudo apt-get update 4. Install the MongoDB package: sudo apt-get install -y mongodb-org 5. Start MongoDB: sudo systemctl start mongod 6. Verify that MongoDB has started successfully: sudo systemctl status mongod 7. Download the mongosh package from the MongoDB website. curl -LJO https://github.com/mongodb/mongosh/releases/download/v1.0.0/mongosh-1.0.0-linux-x86_64.deb 8. Install the package using dpkg sudo dpkg -i mongosh-1.0.0-linux-x86_64.deb Then just run mongosh"
+  },
+  "Ugxw2n3cW-3iLOyHscd4AaABAg": {
+    "question": "Sir project bhi karwaiye naa i think project rahenge to hum jo learn kar rahe hai use apply kar payenge pleaseeeeee : )",
+    "reply": "Aayega Aayega, Project bhi aayega ✨"
+  },
+  "Ugy65DxjBJFgG3JBakB4AaABAg": {
+    "question": "🥳🥳🥳🥳🤯 Bhaiya jaldi project upload kro waise learn by building projects yeh idea theek rhega",
+    "reply": "Aayega Aayega, Project bhi aayega ✨"
+  },
+  "UgxBbAFxZThcGuNLxQd4AaABAg": {
+    "question": "Sir ap se contact kr liye no. Ya e mail kuch milega",
+    "reply": "Sure, piyushgarg.dev@gmail.com"
+  },
+  "UgzEnvTvAwEQ84bmNKB4AaABAg": {
+    "question": "badiya bhaiya bs jaldi jaldi project bhi upload kr do aur authentication which is very confusing",
+    "reply": "Sure, Authentication Authorization sab aayega ✨"
+  },
+  "UgzclURfRMs0EXl6ZY54AaABAg": {
+    "question": "Bhaiya mongo db or jwt authentication bhi kraoge na??",
+    "reply": "Yes, Mongo, JWT + Passport.js 🚀"
+  },
+  "UgwXK4UWzWFYGrcTXTZ4AaABAg": {
+    "question": "sir every time we make changes in our code we have to restart our server , is there any solution to it",
+    "reply": "We'll have a video on that :)"
+  },
+  "Ugz-dSoFiSZsyv5VuOB4AaABAg": {
+    "question": "Amazing Video.... Great Explaination... Thank you soo much",
+    "reply": "You are most welcome 😇"
+  },
+  "Ugym8meoOhteDZV_eC14AaABAg": {
+    "question": "First of all I must say awesome teaching.I found you first on Codedman in Redux Toolkit Module then I search in youtube.I completed Codedamn basic nodejs course but things were not clear than I continue your nodejs series.Thanks a lot for this. I Tried Patch Api but index value was undefined then what should i do",
+    "reply": "Hey, First of all, Thanks a lot. Second: I didn't got your doubt, please mention more details"
+  },
+  "UgxH4wAoOTFCzWt_ow54AaABAg": {
+    "question": "sir jab response send karna hota hai to , ya to res.send() use karte hai ya to res.json() as per req. to mera doubt ye hai ki , return res.json(); use kare ya keval res.json(); kyuki in both result mil rha hai so how should we send the response , using return or without return , because in both the way it works ?? how ??why",
+    "reply": "You can do res.json() but it's a good practice to always have return statement as we want to stop execution of req res cycle."
+  },
+  "UgyJDKlHnc8KTEo10np4AaABAg": {
+    "question": "Hey Bro! I've a question... How did you get so good at these things (Practical + theoretical ) what're are your resources? Do you read the official docs or what??? I like the level of your intellect. Please Reply!!!",
+    "reply": "Great Question! To answer this question, I'll create a dedicated video on how I understand new technologies and frameworks!"
+  },
+  "UgzP2fYXL_fVTmHbktt4AaABAg": {
+    "question": "sir 1 Q tha jab express se routing kar skate hai tou node me HTTP or URL module Ku banye video bana ke bata dijiye ga",
+    "reply": "Hey, There is already a video on HTTP and URL module in this playlist."
+  },
+  "UgzwXhmPuoixny1uxg14AaABAg": {
+    "question": "Great video bhaiya !! Project kab tak aayega bhaiya",
+    "reply": "1st Project Today :)"
+  },
+  "UgwsHr39C-MHT2dD19d4AaABAg": {
+    "question": "Better than my home light",
+    "reply": "Thanks to sunlight :)"
+  },
+  "UgyFYHXTdQVmZVXJwDN4AaABAg": {
+    "question": "Brother view low dekhke demotivate mat hona,hamlog tumare sath ha aur ekdin tum jarur grow karoge YouTube pe,tumara content bohoti mast ha aur maye fan hogaya hu tumare teaching style ka .",
+    "reply": "Thank you so much for support 💪🏻"
+  },
+  "UgyzGzgmMUPfc0bUoe94AaABAg": {
+    "question": "The syntax looks similar to bhai lang",
+    "reply": "Yep, BhaiLang was my inspiration 😂"
+  },
+  "UgwzI8wmLxNk8xqMIHV4AaABAg": {
+    "question": "best part? this is all in my syllabus for this sem and learning from here im gon flex on my peasant classmates and show them how little they are.... just kidding im gon share this playlist with them all cuz my professors are shit lmao",
+    "reply": "Keep Learning 🚀 Do Share 😄"
+  },
+  "Ugyfs_E8euQqd9q9fNJ4AaABAg": {
+    "question": "Complete Node aur express kb tk upload ho jayegi ?",
+    "reply": "I want to make this the best playlist ever on NodeJS"
+  },
+  "Ugz3MqSo9YkcKu2xKMR4AaABAg": {
+    "question": "sir, i started my serer but i am not able to see anything on localhost:8000 and i set the port to 8000 also server starts but doesn't work further",
+    "reply": "Ah, Whats the issue?"
+  },
+  "UgzwA5Ip4EGeGTb3SOh4AaABAg": {
+    "question": "One question.. blocking request run by thread, then who is running non blocking request .. please answer sir",
+    "reply": "Node.js uses an event-driven, non-blocking I/O model which makes it well suited for handling concurrent connections and handling a high number of requests. When a request is received, the server creates an event and adds it to an event queue. The event loop then runs and processes the events in the queue one by one. This allows Node.js to handle many requests simultaneously without blocking the execution of other requests. Node.js also uses a callback function, which is executed once the request has been processed, to return the response to the client. The event loop is responsible for executing non-blocking requests in Node.js. The event loop is a mechanism that allows Node.js to perform non-blocking I/O operations. It works by continuously running and checking the event queue for new events to process. When a new request is received, it is added to the event queue in the form of an event. The event loop then picks up the event and starts executing it. Once the event has been processed, the callback function associated with the event is called, which sends the response back to the client. This entire process happens in a non-blocking manner, allowing Node.js to handle multiple requests simultaneously without blocking the execution of other requests."
+  },
+  "UgxNmiIOLCUYWg4VRcV4AaABAg": {
+    "question": "bro, can you please write code in the ES6 way, since I am just start learning , I want to start with the best practice in place. Also can you show everything in class way, how people use them in production. Please talk about socket API as well.. I tried the P2P project, google meet like conferencing tutorial of yours and find it difficult. So, if you kindly talk about the basics, then that would be real help",
+    "reply": "Don't Worry! We are going to cover each and everything in this playlist and make super easy for you to understand. After this playlist you'll be able to follow P2P as well with ease."
+  },
+  "Ugw9bAyB8F3SW_Mt_Zd4AaABAg": {
+    "question": "We can't use import export like react?",
+    "reply": "In Plain NodeJS, No! We can't.. It's in experimental mode right now. You can set type to module incase you want to use. Ref: https://www.geeksforgeeks.org/how-to-use-an-es6-import-in-node-js/"
+  },
+  "Ugw9Jd1oeGssiLl4jVJ4AaABAg": {
+    "question": "you show so many ways to do similar task bro my mind gets flabbergasted. lmao.",
+    "reply": "Thank you so much for supporting 🚀"
+  },
+  "UgwdZMFaqTO_11Nezcd4AaABAg": {
+    "question": "Bhaiya continue aapka ke video follow kar rha hu, Is series me aage kya express aur mongodb cover hoga please tell",
+    "reply": "Yes Express MongoDB everything would be covered!"
+  },
+  "UgwshmiauSJjqax4iL14AaABAg": {
+    "question": "as usual, learned some new again from your video. should i dig deeper in advantages of package.json or this is enough for now? cuz obv im curious but i dont want to overload if not necessary,,youknowwhatimsaying 😅",
+    "reply": "No need, We'll have a dedicated video on Package.JSON file itself and understand it deeply."
+  },
+  "Ugz-sQVOxHCNwDhFyD94AaABAg": {
+    "question": "Hey Piyush, do interviewers ask DSA while applying for web developer ? Or just good knowledge of MERN stack is enough.",
+    "reply": "Hey, It all depends If you want to work at FAANG company, then only DSA is asked in interview. Having MERN stack or any other skill is a plus, but most important is DSA. But, If you are planning to go into startups or mid size companies, they'll prefer more and more skills and frameworks from you rather than DSA. So, It all depends where you want to go or apply to."
+  },
+  "Ugx5EHIyaKnfLoaLIxR4AaABAg": {
+    "question": "bhai this should've been paid, the explanation is just too good 😫!!",
+    "reply": "Aree bro, Ye lo paid course https://learn.piyushgarg.dev/learn/twitter-clone 😂😂 Just kidding 😂😂 and Thank you so much 🥰😇🙌"
+  },
+  "UgzD1f9d9sXtoW2qQFd4AaABAg": {
+    "question": "Brother i just give you a small suggetion that in your series when you started a new series please desc whole content how long that series will go on which topics you covered like node,express,MVC,mongoDb after what you will cover so we make sure that series we will choose in long term purpose",
+    "reply": "Here is the whole roadmap: https://youtu.be/qHy4UY58_Uc"
+  },
+  "UgxLZsDJOsAv69Fp3mZ4AaABAg": {
+    "question": "One of my favorite YouTuber+ teacher ❤️🔥",
+    "reply": "Happy to hear that!"
+  },
+  "UgwY1SaUUsrPCkssP4p4AaABAg": {
+    "question": "Are you going to continue JS course or we starting node now?",
+    "reply": "We'll come back to JS in form of EJS and React. The main motto is to complete full MERN Stack in this year!"
+  },
+  "UgzbuQ2lDbfzF6bjm0N4AaABAg": {
+    "question": "I think heroku is not free in 23",
+    "reply": "Its asks to enter credit card info for free trail. Still finding some great free services for deploying. 😅"
+  },
+  "Ugwqd1C1evm9LJep3iR4AaABAg": {
+    "question": "I got the soundest and best roadmap of the year 2023 on the first day of year, I'll follow this roadmap with you. Thank You sir and happy new year😇",
+    "reply": "Your welcome and Happy New Year 🥳 Best of luck for your journey 👍"
+  },
+  "Ugx8m8Qv15dET2xsGrt4AaABAg": {
+    "question": "Happy New Year sir",
+    "reply": "Very Happy New Year 🥳"
+  },
+  "UgzkUIUglX1sovrPv5x4AaABAg": {
+    "question": "Sir onClick property is not working with Square component ? Can you help",
+    "reply": "Change onClick to onclick (all lower case)"
+  },
+  "Ugx1bCDZMkvG7AeRxUV4AaABAg": {
+    "question": "can we also style the text written by document.write() ?",
+    "reply": "Yes why not, you can even code a custom container to show winner and reset the game. Cheers 🥂"
+  },
+  "UgwE2bR30PCL4VGsxCV4AaABAg": {
+    "question": "Sir how to learn JavaScript",
+    "reply": "Best way is to learn and build many projects using Javascript. More you build the more you master it."
+  },
+  "Ugzr7rfoeaLQ_RBJ0zJ4AaABAg": {
+    "question": "Which vscode is that",
+    "reply": "Ayu Mirage Dark"
+  },
+  "UgzGC4m1n7uboOuGYNV4AaABAg": {
+    "question": "Congratulations piyush for 1k",
+    "reply": "Thankyou so much Geetanjali ✨"
+  },
+  "Ugzf7uOzGcfBAFZ-QtN4AaABAg": {
+    "question": "Congrats",
+    "reply": "Thankyou so much 😇"
+  },
+  "UgxO84qZI5DWBvfHtXp4AaABAg": {
+    "question": "Congo for 1K piyush bhaiya",
+    "reply": "Thanks a lot Dipansh Sir 🚀"
+  },
+  "UgxigMFOe7nfOC12jP94AaABAg": {
+    "question": "bs ab ads lagani baaki h",
+    "reply": "Ads toh Youtube khud hi lagaata hai, I don't have control on it 😅"
+  },
+  "UgwC4ISLhQv7RAlAoZ54AaABAg": {
+    "question": "you will grow like chinese bamboo 💗",
+    "reply": "Thankyou so much @vivekkr3976! Keep Supporting 🚀"
+  },
+  "Ugwv5aAnhluPX_SAfaV4AaABAg": {
+    "question": "learned a new concept thank you. btw is this the same iterator concept as we have in java? also altho the code is working but i think we should be giving nextStart in if condition of first program instead of iterationCount. cheers.",
+    "reply": "Yes, You can do that as well. Great observation!!"
+  },
+  "UgyKLtfr8PQrZZ6Sch54AaABAg": {
+    "question": "please make the full structured playlist and yeah great video as always :)",
+    "reply": "Hey, Thanks for your kind words :). I already have two playlists on my channel, one for Javascript and other for Advance JS. 🚀"
+  },
+  "UgxVw5OXlYn6aw_qq8t4AaABAg": {
+    "question": "1000 subs soon...✨💥",
+    "reply": "Yeah 🥳. Thanks Mohit for supporting 🚀"
+  },
+  "UgxEw550o_rBGxa3uyx4AaABAg": {
+    "question": "every evening after coming from college i wait for the next vid to drop of this js course thats how much im hooked with it.",
+    "reply": "Feels so great 🚀. Keep learning 😇"
+  },
+  "UgxdD3LETX_lZxOZB354AaABAg": {
+    "question": "what was the issue in the first try?",
+    "reply": "I forgot to turn on bluetooth on my mobile phone xD"
+  },
+  "UgyMJ1ZSXu3GtPnFPWB4AaABAg": {
+    "question": "mobile devices k bluetooth show nhi ho rhe hai...🙄",
+    "reply": "I hope you have enabled experimental flag?"
+  },
+  "Ugxk9kZW3bC7Eq5ot-94AaABAg": {
+    "question": "Sb kuch Bahut badhiya hai, but aap joo video me itna jayda \"tum\" word kaa use karte hai isiliye sahi nahi lagta.",
+    "reply": "Aadat se majbor bro"
+  },
+  "Ugx2jWMWfTcPgZt5BEl4AaABAg": {
+    "question": "Can you please tell me why you have make the function async?",
+    "reply": "Yes you are correct, we are using callbacks for response so no need for async function. I have made a pinned comment for that. Thanks 😀"
+  },
+  "UgxUBLGqJgmQsZiJ8z14AaABAg": {
+    "question": "Thnx u making this tutorial in Hindi",
+    "reply": "Your Welcome, Keep Learning 🚀"
+  },
+  "UgzqOyRE_qxKBCr9okh4AaABAg": {
+    "question": "hi,please can you provide some fake api for practice?",
+    "reply": "Sure, Checkout this repo https://github.com/public-apis/public-apis"
+  },
+  "UgzQDTzHfxA1ZrdNxHR4AaABAg": {
+    "question": "bro i am thankful to god i somehow found your channel, never did api looked so easier to me, you wont believe before this i was scared of api's cuz i could never understand them",
+    "reply": "I am glad you liked it 😇"
+  },
+  "UgwrnP3ozESb3img-Nh4AaABAg": {
+    "question": "How can we save the entire file after dynamic manipulation so that if I reload all the changes like added elements should be visible I mean it shouldn't be deleted on reload of index.html. As I have taken it up it deleted every changes and file was undo as previous. ?? Sorry for question goes lengthy 😂",
+    "reply": "You can save the data in local storage or DB and re-render all dom on page load."
+  },
+  "UgyuwPSGcN2ivgRlbJN4AaABAg": {
+    "question": "Bhai ek issue hota hai dynamically created elements ke sath. Events kam nahi karte hai uspe. How do we handle it?",
+    "reply": "I’ll add it to upcoming videos Thanks"
+  },
+  "UgyIWlwkL_QHWtOUOop4AaABAg": {
+    "question": "Thanku and please share the source code.",
+    "reply": "Will upload soon"
+  },
+  "Ugw6SprUCa-0-tmYJEZ4AaABAg": {
+    "question": "how much time it will take ?? nd projects bhi aenge...",
+    "reply": "Yes Mohit, Projects would be there along with assignments."
+  },
+  "Ugy2UyRMg58WkliE_td4AaABAg": {
+    "question": "bhai tumari video best hai but kabhi khuch tumare topic samaj nhi aate for example (===) three equal tumne rakha direct rakh diya pura samjav to kya direct for or koi bhi funcation laa rahe ho or tume aata wese mat sikhav friendly sikhav audience ko sab nhi aata basic se smjav or hindi ya english bolo kabhi wo bolte kabhi hame pata chale tumari video dekhe ki nhi dekhe",
+    "reply": "Hi, This video is a part of Javascript series and concepts like === are covered in the prev videos 🙌. I would highly recommend to watch these videos in the given playlist in sequential order 😀"
+  },
+  "UgzaclKQigFdX-dad9N4AaABAg": {
+    "question": "be consistent bro make daily videos please we are waiting for your videos make full course on react and java script",
+    "reply": "Will upload soon"
+  },
+  "UgxB-i2RWgoHVRk27Cd4AaABAg": {
+    "question": "bro which vs code theme r u using ?? great work....",
+    "reply": "Ayu Mirage Bordered"
+  },
+  "UgzMs5yY4D4PkDXfl3x4AaABAg": {
+    "question": "thoda sa cimplicated lga ....but aajaega smj.......💥🧡",
+    "reply": "Don't worry Mohit, We would be using it a lot in upcoming videos. I am sure you'll understand this."
+  },
+  "UgxNH4e4h3H_LfPhvzZ4AaABAg": {
+    "question": "At 12:09 Sir,calling and called function parameters should match right?....Javascript me aisa na hoto b chalega kya?",
+    "reply": "Yep, Javascript is weird 👀"
+  },
+  "UgxorI55dORh3Mb3bBt4AaABAg": {
+    "question": "Brother please make a video on how to host mern stack app on heroku alternatives as heroku free tier is no longer available. Can we upload mern stack app on firebase? If yes, then please make a video on how to.",
+    "reply": "Yes sure, I really miss heroku 🔥"
+  },
+  "Ugwjjkrqg4Lc-fgEutF4AaABAg": {
+    "question": "Bro i have a question but from your nextjs series, when i use getServerSideProps it always return empty object in props of the component. how can i solve this.?",
+    "reply": "Hey, Can you share your code via github?"
+  },
+  "UgzfpRKV3eY3mtg7J0F4AaABAg": {
+    "question": "you are one of the best teacher i have seen ever",
+    "reply": "Thanks a lot Deepak"
+  },
+  "Ugx7Aq4YXjkCt6ibeVh4AaABAg": {
+    "question": "Apka Hindi channel hai ya English pls clear",
+    "reply": "Mainly toh Hindi hai bro"
+  },
+  "UgzmBjJKsXlQoI2OM4x4AaABAg": {
+    "question": "Many developers face problems in new next/image like images not loading or in my case blur placeholder not working. You can check nextjs issues. Can you check next/image working on your device?",
+    "reply": "Yes, Seems to be working good."
+  },
+  "Ugw47e5FBClU2xkRadF4AaABAg": {
+    "question": "I want to learn next js but i am confuse that whether i should watch next js course on youtube which is outdated . I just want to know that next js 13 and older version is completely different or i can learn nextjs 13 by seeing older version of nextjs",
+    "reply": "Hi Ajit, I completely undertand your concern and your are correct at your point. Currently Next 13 is in beta stage and has lots of errors and bugs that needs to be fixed. By no chance you can use Next 13 in production as of today. Tho there is a one major change that in app/ dir in Next 13, but still all old features would be there, also all the existing code bases would continue to use the Next 12 features. So, you can learn Next 12 without worrying, and once Next 13 is stable, you can just read few docs and understand new concepts of Next 13. Foundation always remains same, so take a chill pill. Here is my playlist on NextJS https://www.youtube.com/playlist?list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J Thanks and Keep Learning 🚀"
+  },
+  "UgzmEza9XUPc0em323F4AaABAg": {
+    "question": "please make video over next.js 13 in hindi step by step tutorial, i am waiting for this course",
+    "reply": "Checkout https://www.youtube.com/playlist?list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J"
+  },
+  "UgzJV-BVrgUSpPRLIvZ4AaABAg": {
+    "question": "Please make a video of testing these new features.",
+    "reply": "Here you go: https://youtu.be/CBfBZvDQLis"
+  },
+  "UgyIeaQPg-m0ygM9oP94AaABAg": {
+    "question": "Best playlist I've ever seen about Docker😇",
+    "reply": "Thanks a lot bro. Keep Learning 🚀 And do share with your friends 😄"
+  },
+  "UgzGjI7TwTB8XRxIA_R4AaABAg": {
+    "question": "are there more videos on docker By you or this just a single video.",
+    "reply": "Yes there are 3-4 videos or you can checkout learn.piyushgarg.dev for full docker course 🚀"
+  },
+  "UgwYYErKr1aGOVKUnU14AaABAg": {
+    "question": "bhai error resloved nhi horha kya krun ma na github me jakr homepageurl or authorization callback url ko domain pr set kiya ha lekin nhi horaha abhii b",
+    "reply": "Hey, can you share more details about error?"
+  },
+  "Ugy7UGfN3csX5ut4fZd4AaABAg": {
+    "question": "best video on next-auth,u explained every steps so concisely",
+    "reply": "I am glad that you liked it 😇"
+  },
+  "Ugw0cXDmIIgqRr37TB94AaABAg": {
+    "question": "<SessionProvider session={pageProps.session}> error is session",
+    "reply": "import { SessionProvider } from \"next-auth/react\"; <SessionProvider session={pageProps.session}>"
+  },
+  "UgyoG-ah7ZJ_e1yrEkl4AaABAg": {
+    "question": "i dont know why it has less views...",
+    "reply": "Even I don't know 😂"
+  },
+  "UgzZpzUlHNmmZvl9U3F4AaABAg": {
+    "question": "I was searching for this on the whole internet!! I don't know why the official documentation can't explain this in such simple words. Thanks a lot!",
+    "reply": "Thanks a lot. Keep learning 🚀"
+  },
+  "Ugwpvu1VS2w-xFSPgBp4AaABAg": {
+    "question": "😊 Bro I have a question You Said We should use static side generation for blog websites but as you said that it will call API only once at the time of build so what if after deploying my app that is statically generated by next js I added a new blog into server lets suppose it strapi then will that new blog will appear on my deployed next app or I have to make a build again and deploy app again ? HOPE YOU WILL ANSWER 😊",
+    "reply": "Hey, In that case, you can use ISG in NextJS. Docs Link: https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration This is a feature that was created just because of the same problem that you are facing. Good Luck."
+  },
+  "Ugz2In-G0sQFK4lwuKR4AaABAg": {
+    "question": "Noob question: How can you have a static ecommerce website but have a functioning Shopping Cart, a payment processor that has figured out how to process payments form static websites. Any examples of open source packages that have solved this? I'm interested in static ecommerce because of the increased security offered by static websites. I'm just learning how to program and become a web developer and my main interest is how to implement successfully static ecommerce websites.Thank you!",
+    "reply": "Static Site Generation just means that the data is static, all the functioning can easily work on the frontend without any worries. Just the data like products, product info is static."
+  },
+  "UgzD8HoTKIT6aSrJzEx4AaABAg": {
+    "question": "Hello piyush, i have a question. Is it good practice to use redux with static site generation and how to implement it? Please make a video of it.",
+    "reply": "Hi Chanchal, Nice question, many beginners have same doubt. Actually you should not use any state management in SSG. SSG is just a static page with some data. So there is no need of any kind of state management. State management is always for frontend where user interaction happens. So you can use any redux statement inside your component body."
+  },
+  "Ugzn3lNbpMDov7BPgHR4AaABAg": {
+    "question": "Let me share my view on this - This is fine when you do it for small sites which do not have much content, but when it comes to real-world scenarios where the websites have a lot of stuff in it, doing this will only make the build bundle size a lot larger which in turn affects the loading time for the user OR Enlighten me if I'm wrong",
+    "reply": "Hey Mohith, It's great that you participated in this thread but you are slightly wrong here. What NextJS does is basically it builds up static pages on build time and if you try open a specific page like /static/users, you will get only this page on the client, so in any case the bundle size won't increase. Keep Learning 🚀"
+  },
+  "UgyylczxWPoHB510LS54AaABAg": {
+    "question": "Hey piyush!! Just watched your two videos and you explained the concepts in a very easy way. I was literally going through multiple videos about client and server side rendering in next but all were very confusing. Thanks man",
+    "reply": "Glad to hear that! Best of luck 🚀"
+  },
+  "Ugxk4wWd7zgHsehOwlt4AaABAg": {
+    "question": "Brother are you employee of codedamn",
+    "reply": "I am an instructor at CodeDamn 🚀"
+  },
+  "UgwVp6qKFhzdJfwiLgJ4AaABAg": {
+    "question": "can somebody tell me which theme is he using?",
+    "reply": "Yes I can tell you - I think its Ayu Mirage"
+  },
+  "UgyqqyPza6mWO9i3cU54AaABAg": {
+    "question": "most underrated channel that i ever found on youtube and what a quality content sir 🔥🔥🔥",
+    "reply": "Thanks a lot Sanket 🚀 I appreciate that!"
+  },
+  "UgxFxCSq1IyJXFRga394AaABAg": {
+    "question": "Hey bro i was working in react since last 3 months and now my manager has asked to switch to next. I reacd on web that using redux with next is not efficient can you explain why??",
+    "reply": "NextJS is more of SSR and Fast React, You can use Redux with NextJS but NextJS says that always render you data on server side and reduce client side fetching. So, if there is no Client Data Fetching, we have less data in state to maintain globally."
+  },
+  "UgyDYnkP-GgTsNIf2P54AaABAg": {
+    "question": "That is a good explanation, your work is appreciated, thanks for it. I have a little bit of doubt, what is the difference between dynamic routing on file and dynamic routing on the folder?",
+    "reply": "Hi, Thanks for the compliment. Folder structure is useful in nested routing. Example user/profile can be achieved with folder named user but if you have file named user.js, you cannot create nested route for profile."
+  },
+  "Ugx8bN5U9RdTjZcdYCN4AaABAg": {
+    "question": "Sir redux or api integration pr bhi video banao",
+    "reply": "I have uploaded video on it https://www.youtube.com/watch?v=2JBx_06dD1k https://www.youtube.com/watch?v=dOkkHHuFxjM Keep Learning 🚀"
+  },
+  "UgzFwRJOUeAuYOAm62d4AaABAg": {
+    "question": "Java pr bhi video Dalo yrr... complete oops tutorials",
+    "reply": "Hi Deepak My Interactive Java course is available for presale at https://codedamn.com/learn/java-course This course includes Interactive labs and quizes Use coupon Code FIRST100"
+  },
+  "UgxsrOQFNj8Hd1WSI5J4AaABAg": {
+    "question": "awesome subscribed",
+    "reply": "Thanks for the subscribe 🚀"
+  },
+  "UgwkPaQ5dsEyKgm4ydl4AaABAg": {
+    "question": "Code doesnt work",
+    "reply": "Hey, Don’t worry, I am re creating this tutorial soon"
+  },
+  "UgyPcvzxn1kEwDNvPYZ4AaABAg": {
+    "question": "Hey Piyush, it was a great video for an hour no doubt about that but at the end u also know how the proect started working, u didnt even used remote stream variable , ig u just used my stream var in both react players, it was really not very professional of you. But nonetheless great work and maybe we can get a new vid on this topic again. Thanks.",
+    "reply": "Hey, Don’t worry, I am re creating this tutorial soon"
+  },
+  "Ugy7W-TOCJdmH0QCVpZ4AaABAg": {
+    "question": "Hi, I am getting error on negotiation needed. \"Uncaught (in promise) DOMException: Failed to execute 'setRemoteDescription' on 'RTCPeerConnection': Failed to set remote answer sdp: Called in wrong state: stable\" I am sending offer that is already in localDescription to remote user , setting it as remoteDescription and creating new answer from the received offer and sending it back to the current user. Then setting it as remote description. It should be the successful handshake. But somehow I am getting error. Please help I cannot find any resource on internet",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgyaGOi4FIVKRj-WjfR4AaABAg": {
+    "question": "abey iski repo bana ke link share kr na explain to kara ni hai link to dede logon ko 🤦‍♂🤷‍♂",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgwZs5Ilwy2Thh5FAm14AaABAg": {
+    "question": "The fact that you are aware that there are bugs with this code and magically fix it off camera from \"debugging\" is very poor form. And the fact you leave this video up despite being aware of the issues is even more insulting.",
+    "reply": "Hey @pauldoyle3073, I am extremely sorry for the problem you faced. I am planning to recreate this video again with more explanation and debugging on screen. Thanks and Sorry again for the problem you faced."
+  },
+  "UgzT6LZpuSaSiIWZ6bB4AaABAg": {
+    "question": "Hi Piyush, Thanks for this awesome video... so far so good but the error you faced regarding rtcpeerconnection, I am also facing the same issue and I would be glad if you can provide a help to come over this bug or atleast share the code that you have created in this video. Hope to listen soon from you....😊😊",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgxuiuxaxUXix6aOVuV4AaABAg": {
+    "question": "hi, the last part , im gettin the same error you got at the end, can you please let me know how you fixed it",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgxIqDYITzjUi1Mccp94AaABAg": {
+    "question": "When you say that, after some debugging for while, after some changes you've made that aren't clear to us are appearing on only one client panel screen, not both, when you clicked on send a video.",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgwmfnjTrsRovkN_yJh4AaABAg": {
+    "question": "@piyushgargdev please provide the solution of last error..",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgxeUd55oPv6q2jcbxR4AaABAg": {
+    "question": "At the end of video there is bug due toh which the remote video is not coming.. Can someone please tell the code.",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgyaNG_HOgJ5TdzmHD54AaABAg": {
+    "question": "hello piyush, thank you for providing the awesome tutorial. it was great. And when you got an error in the last time. how you debug the error. please provide a solution.",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgxfaChb2_7LQX05vRl4AaABAg": {
+    "question": "Kya same code React native me work karega???",
+    "reply": "I don't think so, because webRTC is only available in browsers"
+  },
+  "UgxufBro8fgbIsR_LKV4AaABAg": {
+    "question": "Hello Piyush, I have been looking for a react tutorial where you don't need a subscription for using an API and looks like this is the one. Could you link the source code because whatever changes you have made to the code after 1:14:04 is unclear. Thanks for this tutorial but I am not able to complete the project because of the issues",
+    "reply": "​@euhansarkar Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgwlqOheTcTl33gyt9x4AaABAg": {
+    "question": "Sir I am facing the same issue at 1:13:56. It says \"Failed to execute 'addTrack' on 'RTCPeerConnection': A sender already exists for the track\". I am not able to debug my code sir. Can you please tell what changes you did in your code or how you debugged your code at the last part of this tutorial to get the app running smoothly..........I saw your P2P project which you uploaded on Github... But I have spent significant amount of time in this project and completing it will give me much more confidence.",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "Ugy2TlUW3MGHOmJ1NIJ4AaABAg": {
+    "question": "i am not able to set localDescription it is returning undifined Can you please help me?",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgwSXDE4g1H0LizkEId4AaABAg": {
+    "question": "i am getting the error stream and track id deprecated in chrome:// web-internals",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgzhyP3nkzKL4p9FKiV4AaABAg": {
+    "question": "Is this also for begineers?",
+    "reply": "There is a small prerequisite that you have good hold over React, Node and Socket.io"
+  },
+  "UgzrwCIh6nHWnFi2oP94AaABAg": {
+    "question": "Dear Piyush I am facing the same issue please can you send the source code or the solution for 1:13:56",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "Ugxgo7fTBQ3uSuc9vgR4AaABAg": {
+    "question": "Anyone solved the last bug ???",
+    "reply": "Great Work Ujjwal! Can you please share code as Github Repository in new comment post? I'll Pin your comment."
+  },
+  "UgwGprfb_F4SLgMQaHZ4AaABAg": {
+    "question": "Great Work piyush , just a small suggestion your video was really in depth, so it was kind off hard to keep up with it , it would be good if lengthy videos like these are either time stamped or broken in like a playlist. Other than that great work.",
+    "reply": "Thats a great suggestion, I am sorry for the issue you faced. I'll surely add timestamps to all the possible videos. Thanks for your suggestion and kind words. 😄"
+  },
+  "UgzaiDvUf-cG8ZI0Fvd4AaABAg": {
+    "question": "oh man i wish u did this tutorial in full english",
+    "reply": "Well, I can’t promise but I’ll surely try to make one in English as well 😇"
+  },
+  "UgzhNTo6xqZl-JKZtcN4AaABAg": {
+    "question": "Bro plz provide same code with mute and vedio on off options plz plz by this week I completely done this project just small options plz explain bro",
+    "reply": "Hey, Sorry for the inconvenience caused, here is a video with bug resolved https://www.youtube.com/watch?v=ZDiQWv-hjtw. Hope you'll like it 😄."
+  },
+  "UgwKswwFVPLG4pBO64V4AaABAg": {
+    "question": "At the end of the vedio u said u have done some debug could u plz send that code plzzzzzz 🥺",
+    "reply": "Sure, Just equipped with some college work 😅"
+  },
+  "Ugy-KBpDbaMsXPEixdF4AaABAg": {
+    "question": "How to monitor webrtc that website is not opening sir",
+    "reply": "chrome://webrtc-internals/ Note: This will work only in chrome browser"
+  },
+  "UgyVHXtdgl66NkPwIOF4AaABAg": {
+    "question": "Hey piyush awesome content, i have a request, can you please upload this project on your github, as I am stuck on the debugging part on 1:14:22 where you said that it started working after restarting the server but I am still facing the same issue in order to get the remote stream. Yes I know you have uploaded P2P github repo but it would be a easy for us to follow this particular protect and then move on to that project.",
+    "reply": "Hi, I understand your issue. Due to storage issue I deleted the project and later realised that I haven't pushed code to Github. If you can give me few days, I shall code this project again and provide link to you. Sorry for the inconvenience."
+  },
+  "Ugwg4pzNzc5-x5Nm8NR4AaABAg": {
+    "question": "thanks for your video. My browser still shows only one camera and gives the error Uncaught (in promise) DOMException: Failed to execute 'setRemoteDescription' on 'RTCPeerConnection': Failed to set remote answer sdp: Called in wrong state: stable",
+    "reply": "https://www.youtube.com/watch?v=U-h5RToHwDA"
+  },
+  "UgysQAwWXx_lm11-nGd4AaABAg": {
+    "question": "I am not able able to create \"handleCallAccepted\" connection due to which I'm not getting \"Call got accepted\" in the console of my local browser(1st person who is sending the offer) eventhough I'm getting \"Incoming offer from\" in the console of my 2nd browser(2nd person who is getting the offer and creating an answer). Is is it because of unsuccessfull RTCPeerConnection because in \"chrome://webrtc-internals/\" I am getting \"P(peer-connection)\" instead of \"RTCPeerConnection(peer-connection)\". Please, need a solution to this as soon as possible.",
+    "reply": "https://www.youtube.com/watch?v=U-h5RToHwDA"
+  },
+  "UgwEgCb-em74E8I56U54AaABAg": {
+    "question": "bhai code do na github link ya or kuch",
+    "reply": "https://www.youtube.com/watch?v=U-h5RToHwDA"
+  },
+  "UgwnzpE-PsFvbYhyTEt4AaABAg": {
+    "question": "Do you have 2 cameras One with the laptop and 1 external(not the one you are streaming with) Because if another browser tries to use our system camera when already in use by some browser it gives error Should I open different windows of same browser and test this or I have to get two cameras only.",
+    "reply": "Hi Raj, No I just have one camera in laptop which was running in both the browsers. I think there is some issue with your machine as I don't think that should cause an issue. I can easily use one camera on multiple browsers. Can you please specify your machine specs?"
+  },
+  "Ugya_eJkaSO61l5rJ1R4AaABAg": {
+    "question": "Facing echo issue using webrtc, can you please assist me for the same.?",
+    "reply": "Add `muted` attribute to video tag and it would be resolved"
+  },
+  "UgyzPMyM1XTCuMkITQx4AaABAg": {
+    "question": "Love the video , Could you make the videos in English if posible , I live in the USA and i belive you will get thousands of subsctriptions , your english is exelent. Thank You so much",
+    "reply": "Thanks a lot Henry for your kind words ✨ I was planning to create separate channel for English Tutorials. Hope to launch it soon 🚀"
+  },
+  "UgyJBc45Ct96DMOE5yR4AaABAg": {
+    "question": "Hey, session id is stored in browser cookies and it can also be stolen. Btw token authentication is more secure than session authentication!!",
+    "reply": "Yes, you are correct. In this video I just gave a comparison about the two ways. I hope I didn’t made any wrong statement in video 😅."
+  },
+  "Ugw1d-MXlOMTrQSFWQV4AaABAg": {
+    "question": "what's the name of your mic Piyush, nice explanation appreciated",
+    "reply": "Thanks, I use Blue Yeti Mic"
+  },
+  "UgzLcRX_wooPYLwftsl4AaABAg": {
+    "question": "Bhai Gajab ki video h...❤mujhe aaj se webRTC m interest aagya h, jb m khud ki application bnaunga to aapko connect karunga, mera wait krna😅",
+    "reply": "I'll love to connect with you over the app that you are going to build. Here is my email piyushgarg.dev@gmail.com. Do send me an invite for video call on your application. Good Luck"
+  },
+  "Ugw6GWNFwkdx9bh1Ynx4AaABAg": {
+    "question": "You described so so and so well. Heartiest thanks to you",
+    "reply": "So nice of you, Thanks a lot"
+  },
+  "Ugx9fHqv4MkJZe2xs254AaABAg": {
+    "question": "which writing device you are using?",
+    "reply": "Thats XP-Pen Tablet"
+  },
+  "Ugylf16HHfbdY7e_GQ14AaABAg": {
+    "question": "How the computer A know the public IP of computer B.??",
+    "reply": "Signalling Server (Example: Sockets)"
+  },
+  "UgyoMUK9N1MdrvnIaE54AaABAg": {
+    "question": "Best video with amazing explanation, i enjoyed the whole video without losing interest, the way you explain the things is so cool. thanks brother !",
+    "reply": "Thankyou so much bro 😄. Keep Learning 🚀"
+  },
+  "Ugz4onYZIWaRIxnsxSl4AaABAg": {
+    "question": "hey piyush just one little doubt , you said that webrtc is peer to peer connection meaning only two people can connect it , but I was just googling around and learning what is a peer to peer connection and no where it was written that a peer to peer connection can only have two devices connected, am I missing something here??",
+    "reply": "Peer to Peer basically means Peer Connected to a Peer (2 People) without any server. So two clients connected to each other is Peer To Peer. Now each computer can create a P2P network with multiple clients and form a mesh network."
+  },
+  "UgzUUC4p2o5s_eWyDuR4AaABAg": {
+    "question": "Loved this video, like i can see the joy in you while teaching it and the way you explained its just great mannnn, everytime I learned something from you",
+    "reply": "Happy to hear that!"
+  },
+  "Ugw3UUG-skFvVfy1lmV4AaABAg": {
+    "question": "Please make a VDO on WebRTC And React Native.",
+    "reply": "https://www.youtube.com/watch?v=U-h5RToHwDA"
+  },
+  "UgyGZr4XYvbVQoTHpgN4AaABAg": {
+    "question": "I was searching for this video from long time, there is not much content much related to web RTC on YouTube, thanks for sharing, waiting for upcoming videos related to this tech",
+    "reply": "You are most welcome"
+  },
+  "Ugxqyx-R6ZhwMYenkDx4AaABAg": {
+    "question": "Thanks piyush for this . Learnt something new today",
+    "reply": "Keep learning Garry ❤️🚀"
+  },
+  "UgzTR8qhMzWpF4HR6ul4AaABAg": {
+    "question": "Brilliant Explanation🙌🙌 and plz make a video tutorial on chat application using webrtc",
+    "reply": "https://youtu.be/7cxpYJAElr4 Do share with your developer friends as well 🚀"
+  },
+  "UgzX1F3FS61WzSgCaD94AaABAg": {
+    "question": "Make this with react bro....",
+    "reply": "https://youtu.be/7cxpYJAElr4 Do share with your developer friends as well 🚀"
+  },
+  "UgydZPATyTe8cxunbXB4AaABAg": {
+    "question": "Please make a video on API from scratch.",
+    "reply": "Hey, Its already there on my channel 😇"
+  },
+  "UgypjpEUnFD37HCTnct4AaABAg": {
+    "question": "sir aapki jo 11:50 per error aati hai wo meri bhi same aa rahi hai but aapki solve hoo gai meri nahi ho rahi hai, Please Help.",
+    "reply": "Have you made firebase-message-sw file?"
+  },
+  "UgzjkYKmZjuhSJU5M054AaABAg": {
+    "question": "provider.ts:122 Uncaught FirebaseError: Messaging: Missing App configuration value: \"projectId\" (messaging/missing-app-config-values). i ma getting this error i have already added the project id in the firebaseConfig still getting that error",
+    "reply": "Can you paste your firebase config"
+  },
+  "UgzE13s6P-F0DFl-sgF4AaABAg": {
+    "question": "Tnx bro,i was looking for this from past 2 monthes,but didnt find exact expected result,really really tnx brother",
+    "reply": "Your Welcome Bro 👍"
+  },
+  "UgxJK9Ln0q9PWxK5chh4AaABAg": {
+    "question": "what if a user is using your application with multiple device then how token will work ?",
+    "reply": "You need to store all the tokens as an array in your database. Each token is unique to device."
+  },
+  "UgzKqYqyCcDO_dbxdWx4AaABAg": {
+    "question": "I followed the same thing in Next JS. But I got some errors. utils/firebase.js (18:38) @ eval TypeError: (0 , firebase_messaging__WEBPACK_IMPORTED_MODULE_1__.getMessaging) is not a function FirebaseError: Firebase: Firebase App named '[DEFAULT]' already exists (app/duplicate-app). These are the errors, I have got. Can you please help me to resolve this?",
+    "reply": "It seems like you are trying to create a file with name that is conflicting with some package. Can you share your code please?"
+  },
+  "UgwW0IOgElJHLRzSJSJ4AaABAg": {
+    "question": "why do you speak in your dialet?",
+    "reply": "Hi There, I feel more comfortable in speaking in Hindi, so thats why :)"
+  },
+  "Ugx5oro1guPmsDr_fD14AaABAg": {
+    "question": "Hello, I receiving the error importScript not found why this happening I did everything correctly..?",
+    "reply": "Don't worry, the code would still work fine. That's just an error from your IDE, not the actual error in your code."
+  },
+  "UgzjCuHejfRIdzPrX7J4AaABAg": {
+    "question": "Really amazed to find a mentor like you awesome content really learnt a lot specially redux was confused from a lot of time but that redux video really helped hats off.. keep up with the good work 👍👍",
+    "reply": "Thanks lot man. This made my day :P"
+  },
+  "UgyBCDkRcXtxndRLSZ14AaABAg": {
+    "question": "Thank's man you save my day",
+    "reply": "Glad I could help"
+  },
+  "UgyA8gX2CJbWFrCn8894AaABAg": {
+    "question": "Sir please tell me? I'm currently learning redux. Market me zyada core redux use horha hai ya redux toolkit. Job ke liye dono mese kya better hai? Thanks sir,",
+    "reply": "ReduxJS is depricated, Redux Toolkit is used nowdays."
+  },
+  "Ugz8jRT0lpWVSJwgAFB4AaABAg": {
+    "question": "Aap 1 million Subscribers Deserve karte Ho Bro",
+    "reply": "Krdo phir share and 1 million 🙏😂. Thanks a lot bro ❤️"
+  },
+  "UgyuuzonbCkU8bHo5-R4AaABAg": {
+    "question": "Cool, Can you make videos on middlewares , useReducer , mapstatetoprops, map dispatch to props and a detailed explanation on redux thunk...",
+    "reply": "Would surely record and publish soon👍. Btw I am guessing you are already a pro in React and Redux right?"
+  },
+  "UgzPTI-2bclEmKLNXet4AaABAg": {
+    "question": "Whats the difference between Redux and React-Redux. As there lots of video on title \"Learn Redux\" and also on title named \"Learn React-Redux\". Plz reply and explain. As I have fully completed my React but getting stucked in learning redux and also getting confused that should I also learn redux- toolkit, saga thunk and also those stuff out there in the market. Well sir I was looking for some fantastic video on Redux and I found yours video. Full crystal clear concept clear baazi sir. Thanks for the video. 👍❤️",
+    "reply": "Great Doubt 🙌 Redux is basically a concept where you have store and a reducer function and actions that gets dispatched. You can use Redux in android, angular, vue, react etc. So in short Redux is a state management tool. On the other hand, React Redux is an implementation of redux concept in react way. It exposes some hooks, Providers and other stuff that makes redux implementation possible in react app. All languages and frameworks have their own libraries to implement redux. You can’t use react redux in angular app right because it’s made for react applications. I hope I was able to clear your doubt 😇."
+  },
+  "UgyCFDO4-ySkY6PpYGZ4AaABAg": {
+    "question": "Create store does not work anymore, you have to use configure store for that...but when I tried to use that my code stopped working...don't know what happened.",
+    "reply": "Yes you are right, I have added redux toolkit also in this video. Check 24:15"
+  },
+  "UgzRlGVChboekB5ZC1l4AaABAg": {
+    "question": "today redux thunk video coming???",
+    "reply": "How to fetch data from API in React Redux Toolkit | React Redux Tutorial https://youtu.be/2JBx_06dD1k"
+  },
+  "UgzCqf5SXF8-ORKcB314AaABAg": {
+    "question": "can you make a video redux thunk and redux saga",
+    "reply": "Redux Thunk and API calling with redux thunk will be out tomorrow 😇"
+  },
+  "UgwEh4w9HsAAhZnis6V4AaABAg": {
+    "question": "thank you sir for this",
+    "reply": "Welcome champ 🚀Keep Learning 😄"
+  },
+  "UgyWPErGYj05LX_Rrr94AaABAg": {
+    "question": "you are a such a great guy in terms of teaching 😎😎😎🤙🤙🤙🔥🔥🔥",
+    "reply": "Thanks a lot brother 😄"
+  },
+  "Ugx6r2jXgZeN3KkCWMF4AaABAg": {
+    "question": "new subscriber ☕",
+    "reply": "@yveltalmaster1258 Yeah sure, My ultimate Java Course is under progress right now and would be available in few days hopefully 🚀. Stay Tuned"
+  },
+  "UgxZdNihCpI3Cp8MnS94AaABAg": {
+    "question": ":) nice work bhaiya",
+    "reply": "Thanks a lot Dipansh 😀"
+  },
+  "UgzLfJ7ntWYSK7gDXF54AaABAg": {
+    "question": "Wah g",
+    "reply": "Thankyou very much bhaiya 😄"
+  },
+  "UgwbH47Yhz6cKL1DqrR4AaABAg": {
+    "question": "Please make a video on React-Redux and with a live project.....",
+    "reply": "Here you go bro :p Link: https://youtu.be/dOkkHHuFxjM"
+  },
+  "UgxwnQhzFf_3s2HwFwp4AaABAg": {
+    "question": "Thankyou sir for this series, if you can please add one more video like how to host this project on firebase",
+    "reply": "Thanks for your kind words. I’ll surely consider this 🙌"
+  },
+  "UgxGiSWRCwAyxdIny4h4AaABAg": {
+    "question": "React js sikhne k liye kitni javascript aani chahiye. Plz suggest.",
+    "reply": "I would suggest you that you should have at least 5-6 projects build up on javascript and you should know the following concepts in js Variables Constants Functions Pure Functions Scopes DOM Manuplation High Order Functions Prototypes Event Handling, Bublling etc."
+  },
+  "Ugwu4-U0pBKjFdvmLF14AaABAg": {
+    "question": "Thanks piyush for making this video",
+    "reply": "It's my pleasure"
+  },
+  "UgwGiar2q9mfgeL7pl14AaABAg": {
+    "question": "Hi bro, when i try to pass a a props books.data() its showing error i spent 2hr but still showing errors :(",
+    "reply": "What is the error?"
+  },
+  "UgxMmPrSGvMXwR83iT54AaABAg": {
+    "question": "one of the best explanation in firebase react",
+    "reply": "Thanks a lot brother"
+  },
+  "Ugw1FIfhOXdA4nMyMXp4AaABAg": {
+    "question": "Your videos on react and firebase is one of the best on YouTube. Sir please don't stop making videos.",
+    "reply": "Thanks for supporting ✨"
+  },
+  "UgyS1PCxfLrZkqiIQFZ4AaABAg": {
+    "question": "Thank you so much for this educational video, I learned so much. keep doing the best work. 😊",
+    "reply": "Thankyou so much 🚀"
+  },
+  "UgzfDZbLeZWKsWrNCwt4AaABAg": {
+    "question": "You must be protected at any cost. Really i have watched so many courses, tutorials on programming various topics but the way you explain is just like a magic. Thanks a lot. Please make a full stack project with firebase.",
+    "reply": "You are most welcome"
+  },
+  "UgyS8jeQVX20HhuFKSV4AaABAg": {
+    "question": "Awesome video Understood everything Thank youuuuuuuuuuuuuu",
+    "reply": "You are welcome!"
+  },
+  "UgwT5FT0UL6k0V5XICt4AaABAg": {
+    "question": "sir 1- one thing where we use firestore and where we use realtime? 2- make me correct Firestore works like mongoDb and realtime works as a SQL? 3- PutData we only use when we are using realtime data base?",
+    "reply": "Firestore is like MongoDB (Document Based DB) and I usually use realtime-db as redis cache to store some realtime temporary data such as cache, and can be used in multiplayer game kind of scenario."
+  },
+  "Ugy6XoYFjWcJKTg7SxN4AaABAg": {
+    "question": "when i try to 13:20 signup user then it is update the last one its not showing the error user already exist",
+    "reply": "Signup can only be done once, you need to do a login next time"
+  },
+  "UgzJkkT3HVDD6DT1_EJ4AaABAg": {
+    "question": "Thankyou so much for uploading this and sharing your experience ♥️♥️♥️",
+    "reply": "Your welcome bro, Thanks for the comment 😀"
+  },
+  "UgyJYYlhRsALv-RwEV94AaABAg": {
+    "question": "Hi Piyush, i have seen many tutorials. But most of them have not covered optimization between firestore and rtdb to minimise the bill. Please provide your contact so i can write issue about said topic",
+    "reply": "Maybe over a google meet?"
+  },
+  "UgzSGL1i0qFyU3X8jcJ4AaABAg": {
+    "question": "I am getting this error : Firebase: Error (auth/unauthorized-domain). and app is running on localhost. How to resolve this error?",
+    "reply": "Great! Keep Exploring 🚀"
+  },
+  "UgxN6MRrms89enJMUlB4AaABAg": {
+    "question": "I am getting this error : Firebase: Error (auth/unauthorized-domain).",
+    "reply": "On which domain your app is running?"
+  },
+  "UgzgG4q6TfGvowGj_gt4AaABAg": {
+    "question": "Sir ❤️❤️❤️❤️❤️❤️",
+    "reply": "Thanks a lot mate ❤️🚀"
+  },
+  "UgyPJyPc98TNwGrTa0R4AaABAg": {
+    "question": "Very Helpful series",
+    "reply": "Thankyou very much Jai 😇"
+  },
+  "UgwltnhLjgbz_ZDa3Jl4AaABAg": {
+    "question": "Hello bhaiya please project banao please with react using firebase so that this playlist will be complete.",
+    "reply": "There is already a project at the end!"
+  },
+  "Ugyhq8-aVdaOXgjqV4F4AaABAg": {
+    "question": "bhai yarr please make tutorial on react js",
+    "reply": "Here you go bro: https://www.youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI"
+  },
+  "UgwfK5yaf3-9wg3N62l4AaABAg": {
+    "question": "Kindly make playlist",
+    "reply": "Playlist is already there: ► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI ► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C"
+  },
+  "Ugz6HbrC5hRjDmFNOD14AaABAg": {
+    "question": "very good course keep it up :)",
+    "reply": "Thanks a lot mate 😀"
+  },
+  "Ugy9VXPX4I-tOo1Dl4x4AaABAg": {
+    "question": "sir where is the book react app ? I am not able to find it",
+    "reply": "https://www.youtube.com/watch?v=tBkWJEG29HI&list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C&index=11"
+  },
+  "UgzH4Hknm9GCuAnhdf94AaABAg": {
+    "question": "Sir please jaldi complete krain yeh series",
+    "reply": "Hey, This series is already completed. 😄"
+  },
+  "Ugwon3_RLI_DJ5kJTqZ4AaABAg": {
+    "question": "Superb Content really helped a lot looking forward to learn more from you 🤯..",
+    "reply": "Thanks a lot Himanshu 😄. Keep Learning 🚀"
+  },
+  "Ugy4B0jvJceFsmMhUsJ4AaABAg": {
+    "question": "Hey Bro!!! When you said REST API You meant Fetch API (Just like the title), You just misspoke, Right? Its just confused me a lil bit. I love your Content btw..",
+    "reply": "Can you specify the time please 😁 Thanks for the compliment ✨"
+  },
+  "UgxPFoEr7XDSFxFrzzh4AaABAg": {
+    "question": "thanks a lot piyush can i connect with you on insta",
+    "reply": "Yes, sure. Link in description"
+  },
+  "Ugwz9gvzJsXNKF9nDuB4AaABAg": {
+    "question": "now the api key does not work proper , what can i do for that",
+    "reply": "Oh! Let me check and get back to you"
+  },
+  "Ugz0u_q8b5vAdJHeS7Z4AaABAg": {
+    "question": "i think you forgot to work on refresh button",
+    "reply": "Take that as an assignment for you 😇"
+  },
+  "UgzGfgfcG3AvSB-Efm14AaABAg": {
+    "question": "Redux do the same things, Right ?",
+    "reply": "Yes, it internally uses context api and provides more out of box features"
+  },
+  "Ugyo1Avo7MX14kf_H6N4AaABAg": {
+    "question": "I accidently stumbled upon one ofyour videos. and i opened it hesitatingly...but the way of your explaining and simplicity of concepts is amazing and very helpful. i am learning a lot from u and as u say, no need to watch other tutorials once i watch yours!",
+    "reply": "Thanks a lot Anurag. I really appreciate your honest review 😇"
+  },
+  "Ugzi4e2Zzlnlt4xcLGh4AaABAg": {
+    "question": "Please share git",
+    "reply": "Sure, would upload soon. Thanks for suggesting me 😃"
+  },
+  "UgwGQ5ESmUMSaLrqBDd4AaABAg": {
+    "question": "Good work bro!",
+    "reply": "Thanks a lot sir 😄"
+  },
+  "Ugy8XGSy4w1qwc_UFod4AaABAg": {
+    "question": "Hlo Piyush, Can You Make a video on All-React Hooks, and Redux. ASAP",
+    "reply": "Here you go bro :) Link: https://youtu.be/dOkkHHuFxjM"
+  },
+  "UgygKnYTbtStCFFiOt14AaABAg": {
+    "question": "i am from Pakistan and i am your new subscriber... good job bro.",
+    "reply": "Thankyou so much bro 🥰"
+  },
+  "UgxCjjQkmht4a16uFmR4AaABAg": {
+    "question": "Bro Please Make a video on use Reducer and Redux....",
+    "reply": "https://youtu.be/dOkkHHuFxjM"
+  },
+  "Ugwp0RBOqsZt1HSlfll4AaABAg": {
+    "question": "hello can you please help me i am using context API in one project but i got a error that whenever i try to wrap my index.js app component under the provider my app got crash or what but it only shows a blank screen without any error please help me",
+    "reply": "Have you rendered props.children in your provider?"
+  },
+  "Ugx4T-GOubzCmEKNG154AaABAg": {
+    "question": "Well Explanation",
+    "reply": "Thanks a lot man Keep Learning 🚀"
+  },
+  "Ugynj7t5URM7vGXowSV4AaABAg": {
+    "question": "nice video.please make video on react-redux",
+    "reply": "Here is the video: https://youtu.be/dOkkHHuFxjM"
+  },
+  "Ugw8Xh5x6NCHgNLvI6t4AaABAg": {
+    "question": "Found your video through reddit, really helped me. Thanks",
+    "reply": "Glad it helped! Thanks and keep learning ❤️🚀"
+  },
+  "Ugy7MlGXq4Ad4mC9IoR4AaABAg": {
+    "question": "if no one wins then what happened please tell me how to make that logic",
+    "reply": "Check if array is full with x and o. If so and no match is found, it means thats a draw!"
+  },
+  "UgwYAIxcUEsstY7HrKF4AaABAg": {
+    "question": "u have used Array(9).fill(null), is it ok to use [ ] ??",
+    "reply": "No Sanketh, We need an array of 9 elements all null. [ ] means an empty array of length zero."
+  },
+  "UgwuJFpz1ApJRdHRxIl4AaABAg": {
+    "question": "very nicely and concisely done. absolutely loved it. how ever there is one glitchh, no response on a match being draw!!!",
+    "reply": "Yep, take that as an assignment for yourself 😂"
+  },
+  "Ugwnl_oHfgFrsfFHfuJ4AaABAg": {
+    "question": "sir, the onClick property is being recognised as a props in my code, what should i do",
+    "reply": "Didn’t understood. Please elaborate"
+  },
+  "UgzL0xXzXabAH4A8o6N4AaABAg": {
+    "question": "bro do a video on axios bro",
+    "reply": "Yeah sure, would be doing soon bro 😀"
+  },
+  "UgwQxTL82NWReJ4Q-j14AaABAg": {
+    "question": "Thanks bhai mene banaaya just maza aagaya simple explanation! Subscribed!!",
+    "reply": "Thats Great, Keep learning 😀"
+  },
+  "Ugz_gHr_Agi6wp7qR1J4AaABAg": {
+    "question": "Though I have coded it but there are errors in my code...... can you provide its code?",
+    "reply": "Yea sure, Here you go https://github.com/piyushgargdev-01/Tic-Tac-Toe Added to description as well"
+  },
+  "UgwX7XsuXm_KMrxDuUJ4AaABAg": {
+    "question": "bhai subscribed you from 2 accounts ....insane playlist",
+    "reply": "Thankyou so much bro 😇"
+  },
+  "UgyG2jlnlIgRUDSdfZN4AaABAg": {
+    "question": "piyush app ne bhot acchay se explain kiya is project ko app k efforts kfi effective hai lagay rahya :)",
+    "reply": "Thanks a lot Rishabh Bro😄"
+  },
+  "Ugycvm4mxb6ybAPrp8J4AaABAg": {
+    "question": "I Want to become a Font-End Developer and i am currently fowwing your React Series..and one this i really want say is that....I am Loving it, the way you explained each and every concept is Amazing. Love your work..Thankyou for creating this Beautiful Playlist... i guess i am on a right path :)",
+    "reply": "Thanks a lot for your Kind Words! 😇 Best of luck! 🚀"
+  },
+  "UgxDvIK_JmyunS6IlfZ4AaABAg": {
+    "question": "I watched so many videos of states but was unable to understand but now my concepts are clear. Very helpful",
+    "reply": "I am glad that you liked the video. Would put best efforts to make more quality education videos 🚀"
+  },
+  "UgxLeDCXYeT0zGC5aSJ4AaABAg": {
+    "question": "Hi Piyush, Really well Explained For React I followed your video",
+    "reply": "Thanks a lot Rammeek 🔥 Keep supporting keep learning 🚀🚀"
+  },
+  "UgwWlOzNuxf12zPzjm14AaABAg": {
+    "question": "Best Hindi Tutorial about react ever. Well explained important concepts. 👍",
+    "reply": "Glad you liked it! :)"
+  },
+  "Ugym55ghLq3NtdTkkEx4AaABAg": {
+    "question": "great explanation",
+    "reply": "Thanks a lot Keep learning 🔥🚀"
+  },
+  "UgyHy7isVC-HDeTMy_B4AaABAg": {
+    "question": "great content bro following this react series and i think you should also provide source code .",
+    "reply": "Thanks a lot for the feedback. All the upcoming videos will now have the project link in description. Keep learning 🚀"
+  },
+  "Ugw41jTkzPvs4JuZl994AaABAg": {
+    "question": "Subscribed and also share this channel with others... 😀😀",
+    "reply": "Thanks a lot Vivek 🚀"
+  },
+  "UgxEtIUXjPGOYpTmUyp4AaABAg": {
+    "question": "Bhai aapka series dekhu ya vishwas sir ka codevolution waalaa playlist dekhu aap jo bologe usko religiously follow karunga main Salesforce developer hu aur mujhe open source mein switch karna hai. Toh aap mujhe batao mujhe kya karna chahiye? Mera naam bhi Piyus hi hai bhai so bhai samajh ke meri help Karo aur sahi direction do please",
+    "reply": "Hi Piyush, No doubt @codevolution is a great channel and I have learnt many great things for Vishwas sir. My channel is relatively and currently has less content. I would suggest you what ever you want to learn, just youtube search and what ever ranks up go with it. Every channel is doing great job in teaching, don’t just stick to one. I promise to deliver more and quality content over time and would surely rank up one day. So just keep exploring and keep learning"
+  },
+  "Ugzut8_3SkDCOLusF-54AaABAg": {
+    "question": "bro is this series help me to get an internship...🤧??",
+    "reply": "Surely React is high is demand technology, but all that matters is your Hardwork and practice. Keep building new projects using React.js and very easily you'll get handsome paying internship or job. Happy Learning 🚀"
+  },
+  "Ugw3wtV6zmfC1CMb2nt4AaABAg": {
+    "question": "Nice work mate!! Got my support and will follow your series!!..",
+    "reply": "Awesome, thank you!"
+  },
+  "UgygRRXdrPYvVaxq8S14AaABAg": {
+    "question": "sir ye video pura nhi h ast me",
+    "reply": "Ohh, yeah seems to some issue there. It was there before.. Hmm Thanks a lot for letting me know and sorry for this."
+  }
+}
