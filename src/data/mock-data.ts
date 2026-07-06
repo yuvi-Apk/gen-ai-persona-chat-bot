@@ -17,6 +17,7 @@ export type Conversation = {
     preview: string;
     timestamp: string;
     unread?: number;
+    mentorKey: string;
     messages: Message[];
 };
 
@@ -27,6 +28,7 @@ export const conversations: Conversation[] = [
         id: "closures",
         title: "Explain JavaScript closures",
         preview: "Hanji! Closures are like...",
+        mentorKey: "hitesh",
         timestamp: "Today",
         messages: [
             {
@@ -75,6 +77,7 @@ export const conversations: Conversation[] = [
         title: "Python from scratch",
         preview: "You: Where do I start?",
         timestamp: "Today",
+        mentorKey: "piyush",
         messages: [
             {
                 id: "m1",
@@ -100,6 +103,7 @@ export const conversations: Conversation[] = [
         id: "async-await",
         title: "Async/await explained",
         preview: "Chai analogy for promises...",
+        mentorKey: "hitesh",
         timestamp: "Yesterday",
         messages: [
             {
