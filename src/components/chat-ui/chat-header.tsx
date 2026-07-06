@@ -1,6 +1,7 @@
 "use client";
 
-import type { Conversation, Mentor } from "@/data/mock-data";
+import { Mentor } from "@/data/mentors";
+import type { Conversation } from "@/data/mock-data";
 
 type ChatHeaderProps = {
   mentor: Mentor;
@@ -39,12 +40,12 @@ export function ChatHeader({
       )}
 
       <div className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-primary font-heading font-semibold text-primary-foreground">
-        {mentor.name
+        {mentor?.profile?.name
           .split(" ")
           .map((p) => p[0])
           .join("")
           .slice(0, 2)}
-        {mentor.online && (
+        {mentor?.profile?.online && (
           <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-card bg-online" />
         )}
       </div>
@@ -52,9 +53,9 @@ export function ChatHeader({
       <div className="min-w-0 flex-1">
         <div className="flex items-center gap-2">
           <p className="truncate font-heading text-sm font-semibold">
-            {mentor.name}
+            {mentor?.profile?.name}
           </p>
-          {mentor.online && (
+          {mentor?.profile?.online && (
             <span className="h-1.5 w-1.5 shrink-0 rounded-full bg-online" />
           )}
         </div>
@@ -64,7 +65,7 @@ export function ChatHeader({
       </div>
 
       <div className="hidden shrink-0 items-center gap-1.5 sm:flex">
-        {mentor.tags.slice(0, 2).map((tag) => (
+        {mentor?.expertise?.primary.slice(0, 2).map((tag) => (
           <span
             key={tag}
             className="rounded-full bg-accent px-2.5 py-0.5 text-xs font-medium text-accent-foreground"

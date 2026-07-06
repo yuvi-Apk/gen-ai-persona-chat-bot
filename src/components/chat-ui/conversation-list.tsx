@@ -1,6 +1,7 @@
 "use client";
 
-import type { Conversation, Mentor } from "@/data/mock-data";
+import { Mentor } from "@/data/mentors";
+import type { Conversation } from "@/data/mock-data";
 
 type ConversationListProps = {
   mentor: Mentor;
@@ -26,7 +27,7 @@ export function ConversationList({
     <div className="flex h-full w-full flex-col bg-sidebar md:w-80 md:shrink-0 md:border-r md:border-sidebar-border">
       <div className="flex items-center gap-3 border-b border-sidebar-border p-4">
         <div className="relative flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary font-heading font-semibold text-primary-foreground">
-          {mentor.name
+          {mentor?.profile?.name
             .split(" ")
             .map((p) => p[0])
             .join("")
@@ -34,20 +35,20 @@ export function ConversationList({
         </div>
         <div className="min-w-0">
           <p className="truncate font-heading text-sm font-semibold text-sidebar-foreground">
-            {mentor.name}
+            {mentor?.profile?.name}
           </p>
-          <p className="truncate text-xs text-muted-foreground">
+          {/* <p className="truncate text-xs text-muted-foreground">
             {mentor.role}
-          </p>
+          </p> */}
         </div>
       </div>
 
       <div className="space-y-3 border-b border-sidebar-border p-4">
         <p className="text-xs italic leading-snug text-muted-foreground">
-          "{mentor.tagline}"
+          "{mentor?.profile.tagline}"
         </p>
         <div className="flex flex-wrap gap-1.5">
-          {mentor.tags.map((tag) => (
+          {mentor?.expertise?.primary.map((tag) => (
             <span
               key={tag}
               className="rounded-full bg-accent px-2.5 py-0.5 text-xs font-medium text-accent-foreground"

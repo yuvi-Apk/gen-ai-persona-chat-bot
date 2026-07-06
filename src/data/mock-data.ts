@@ -1,11 +1,4 @@
-export type Mentor = {
-    id: string;
-    name: string;
-    role: string;
-    tagline: string;
-    online: boolean;
-    tags: string[];
-};
+
 
 export type MessageBlock =
     | { type: "text"; content: string }
@@ -27,24 +20,7 @@ export type Conversation = {
     messages: Message[];
 };
 
-export const mentors: Mentor[] = [
-    {
-        id: "hitesh",
-        name: "Hitesh Choudhary",
-        role: "Founder · iNeuron / LCO",
-        tagline: "Hanji! Chai lo aur code seekho.",
-        online: true,
-        tags: ["JavaScript", "Python", "DSA", "Node.js", "Career"],
-    },
-    {
-        id: "piyush",
-        name: "Piyush Garg",
-        role: "Full Stack Educator",
-        tagline: "System design ek chai break mein.",
-        online: false,
-        tags: ["React", "System Design", "Docker"],
-    },
-];
+
 
 export const conversations: Conversation[] = [
     {

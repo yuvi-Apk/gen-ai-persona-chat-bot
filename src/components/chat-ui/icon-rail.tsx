@@ -1,6 +1,8 @@
 "use client";
 
-import type { Mentor } from "@/data/mock-data";
+import { Mentor } from "@/data/mentors";
+
+
 
 type IconRailProps = {
   mentors: Mentor[];
@@ -25,7 +27,7 @@ export function IconRail({ mentors, activeMentorId, onSelectAction }: IconRailPr
             key={mentor.id}
             type="button"
             onClick={() => onSelectAction(mentor.id)}
-            aria-label={mentor.name}
+            aria-label={mentor?.profile?.name}
             aria-current={isActive}
             className={[
               "relative flex h-11 w-11 items-center justify-center rounded-xl text-sm font-heading font-semibold transition-colors",
@@ -35,12 +37,12 @@ export function IconRail({ mentors, activeMentorId, onSelectAction }: IconRailPr
                 : "bg-surface-2 text-muted-foreground hover:bg-accent hover:text-accent-foreground",
             ].join(" ")}
           >
-            {mentor.name
+            {mentor?.profile?.name
               .split(" ")
               .map((part) => part[0])
               .join("")
               .slice(0, 2)}
-            {mentor.online && (
+            {mentor?.profile?.online && (
               <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-sidebar bg-online" />
             )}
           </button>

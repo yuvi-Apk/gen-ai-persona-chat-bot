@@ -6,12 +6,15 @@ import { ConversationList } from "@/components/chat-ui/conversation-list";
 import { ChatHeader } from "@/components/chat-ui/chat-header";
 import { MessageBubble } from "@/components/chat-ui/message-bubble";
 import { ChatComposer } from "@/components/chat-ui/chat-composer";
+
 import {
-  mentors,
   conversations as seedConversations,
   type Conversation,
   type Message,
 } from "@/data/mock-data";
+
+// going to be the main
+import { mentors } from "@/data/mentors";
 
 // Simple incrementing counter used to generate unique message ids.
 // Module-level (outside the component) so it survives re-renders but
@@ -67,7 +70,8 @@ export function ChatApp() {
 
   // Full mentor object for the active id (falls back to the first mentor
   // just in case activeMentorId ever ends up invalid).
-  const activeMentor = mentors.find((m) => m.id === activeMentorId) ?? mentors[0];
+  const activeMentor =
+    mentors.find((m) => m.id === activeMentorId) ?? mentors[0];
 
   // All conversations belonging to the currently selected mentor.
   const mentorConversations = conversationsByMentor[activeMentorId] ?? [];
@@ -261,7 +265,8 @@ export function ChatApp() {
               {activeConversation.messages.length === 0 ? (
                 // Freshly created ("New chat") conversation with nothing sent yet.
                 <p className="mt-10 text-center text-sm text-muted-foreground">
-                  No messages yet — say hi to {activeMentor.name.split(" ")[0]}.
+                  No messages yet — say hi to{" "}
+                  {activeMentor?.profile?.name.split(" ")[0]}.
                 </p>
               ) : (
                 activeConversation.messages.map((message) => (
@@ -270,7 +275,10 @@ export function ChatApp() {
               )}
             </div>
 
-            <ChatComposer mentorName={activeMentor.name} onSendAction={handleSend} />
+            <ChatComposer
+              mentorName={activeMentor?.profile?.name}
+              onSendAction={handleSend}
+            />
           </>
         ) : (
           // Edge case: active mentor has zero conversations at all
@@ -280,7 +288,7 @@ export function ChatApp() {
               No conversation selected
             </p>
             <p className="text-sm text-muted-foreground">
-              Start a new chat with {activeMentor.name.split(" ")[0]}.
+              Start a new chat with {activeMentor?.profile.name.split(" ")[0]}.
             </p>
             <button
               type="button"
