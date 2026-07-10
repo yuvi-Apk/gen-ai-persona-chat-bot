@@ -1,7 +1,8 @@
 "use client";
 
 import { Mentor } from "@/data/mentors";
-import type { Conversation } from "@/data/mock-data";
+import { Conversation } from "@/hooks/use-chat-store";
+
 
 type ConversationListProps = {
   mentor: Mentor;

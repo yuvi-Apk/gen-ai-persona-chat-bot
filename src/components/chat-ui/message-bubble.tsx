@@ -1,4 +1,4 @@
-import type { Message } from "@/data/mock-data";
+import { Message } from "@/hooks/use-chat-store";
 
 function CodeBlock({
   language,
