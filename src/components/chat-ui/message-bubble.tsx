@@ -1,4 +1,7 @@
 import { Message } from "@/hooks/use-chat-store";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import rehypeHighlight from "rehype-highlight";
 
 function CodeBlock({
   language,
@@ -45,12 +48,13 @@ export function MessageBubble({ message }: { message: Message }) {
         >
           {message.blocks.map((block, i) =>
             block.type === "text" ? (
-              <p
+              <ReactMarkdown
                 key={i}
-                className="text-sm leading-relaxed [&:not(:first-child)]:mt-2"
+                remarkPlugins={[remarkGfm]}
+                rehypePlugins={[rehypeHighlight]}
               >
                 {block.content}
-              </p>
+              </ReactMarkdown>
             ) : (
               <CodeBlock
                 key={i}

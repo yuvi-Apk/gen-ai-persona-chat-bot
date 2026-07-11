@@ -40,7 +40,25 @@ export const POST = asyncHandler(async (req: NextRequest) => {
         messages: [
             ...history,
             { role: "user", content: message },
-        ],
+        ], output_config
+            : {
+            format: {
+                type: "json_schema",
+                schema: {
+                    type: "object",
+                    properties: {
+                        type: { type: "string", enum: ["text", "code"] },
+                        content: { type: "string" },
+                        language: {
+                            type: "string",
+                            description: "Required only when type is 'code'. Examples: javascript, typescript, python, java, cpp, go, rust, sql, bash, html, css, json."
+                        }
+                    },
+                    required: ["type", "content",],
+                    additionalProperties: false
+                }
+            }
+        }
     });
 
     // const response = await openAiClient.responses.create({
@@ -52,9 +70,12 @@ export const POST = asyncHandler(async (req: NextRequest) => {
     //     ],
     // });
 
-    const reply = response.content.find((b) => b.type === "text")?.text ?? "";
+    const rawReply =
+        response.content.find((b) => b.type === "text")?.text ?? "";
 
-    console.log("reply",JSON.stringify(reply));
+    const reply = JSON.parse(rawReply);
+
+    console.log("reply", reply);
 
     // const reply = response.output_text;
     return NextResponse.json({ reply });

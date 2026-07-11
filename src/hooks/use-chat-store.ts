@@ -295,18 +295,18 @@ export function useChatStore() {
           );
         }
 
-        const data: { reply: string } = await response.json();
+        const data: { reply: MessageBlock } = await response.json();
 
         const mentorReply: Message = {
           id: nextId(),
           sender: "mentor",
           time: timeNow(),
-          blocks: [{ type: "text", content: data.reply }],
+          blocks: [data.reply],
         };
 
         appendMessage(mentorId, conversationId, mentorReply);
         updateConversationMeta(mentorId, conversationId, {
-          preview: data.reply,
+          preview: data.reply.content,
         });
       } catch (error) {
         console.error("Failed to get mentor reply:", error);
