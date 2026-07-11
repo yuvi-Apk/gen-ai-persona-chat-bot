@@ -1,8 +1,7 @@
 "use client";
 
 import { Mentor } from "@/data/mentors";
-
-
+import Image from "next/image";
 
 type IconRailProps = {
   mentors: Mentor[];
@@ -14,7 +13,11 @@ type IconRailProps = {
  * Slim always-visible rail for switching between mentors.
  * Stays visible at every breakpoint; it's the app's home base.
  */
-export function IconRail({ mentors, activeMentorId, onSelectAction }: IconRailProps) {
+export function IconRail({
+  mentors,
+  activeMentorId,
+  onSelectAction,
+}: IconRailProps) {
   return (
     <nav
       aria-label="Mentors"
@@ -37,13 +40,19 @@ export function IconRail({ mentors, activeMentorId, onSelectAction }: IconRailPr
                 : "bg-surface-2 text-muted-foreground hover:bg-accent hover:text-accent-foreground",
             ].join(" ")}
           >
-            {mentor?.profile?.name
-              .split(" ")
-              .map((part) => part[0])
-              .join("")
-              .slice(0, 2)}
-            {mentor?.profile?.online && (
-              <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-sidebar bg-online" />
+            {/* Image wrapper */}
+            <div className="relative h-full w-full overflow-hidden rounded-xl">
+              <Image
+                src={mentor.profile.avatar}
+                alt={mentor.profile.name}
+                fill
+                className="object-cover"
+              />
+            </div>
+
+            {/* Online indicator */}
+            {mentor.profile.online && (
+              <span className="absolute -bottom-0.5 -right-0.5 z-10 h-3 w-3 rounded-full border-2 border-card bg-online" />
             )}
           </button>
         );

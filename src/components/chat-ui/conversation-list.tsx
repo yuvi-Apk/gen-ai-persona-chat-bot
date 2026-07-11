@@ -2,7 +2,7 @@
 
 import { Mentor } from "@/data/mentors";
 import { Conversation } from "@/hooks/use-chat-store";
-
+import Image from "next/image";
 
 type ConversationListProps = {
   mentor: Mentor;
@@ -28,11 +28,20 @@ export function ConversationList({
     <div className="flex h-full w-full flex-col bg-sidebar md:w-80 md:shrink-0 md:border-r md:border-sidebar-border">
       <div className="flex items-center gap-3 border-b border-sidebar-border p-4">
         <div className="relative flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary font-heading font-semibold text-primary-foreground">
-          {mentor?.profile?.name
-            .split(" ")
-            .map((p) => p[0])
-            .join("")
-            .slice(0, 2)}
+          {/* Image wrapper */}
+          <div className="relative h-full w-full overflow-hidden rounded-xl">
+            <Image
+              src={mentor.profile.avatar}
+              alt={mentor.profile.name}
+              fill
+              className="object-cover"
+            />
+          </div>
+
+          {/* Online indicator */}
+          {mentor.profile.online && (
+            <span className="absolute -bottom-0.5 -right-0.5 z-10 h-3 w-3 rounded-full border-2 border-card bg-online" />
+          )}
         </div>
         <div className="min-w-0">
           <p className="truncate font-heading text-sm font-semibold text-sidebar-foreground">
