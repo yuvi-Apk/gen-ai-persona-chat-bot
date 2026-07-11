@@ -22,11 +22,13 @@ export function vectorEmbeddingSearch(
     minSimilarity: number = 0.2,
 ): SearchResult[] {
     const embeddingPath = path.join(
-        process.cwd(),
+        process.cwd(),"src",
         "knowledge",
         mentorId,
         "embeddings.json",
     );
+
+    console.log("embeddingPath",embeddingPath)
 
     if (!fs.existsSync(embeddingPath)) {
         throw new Error(`Embeddings not found for mentor: ${mentorId}`);
